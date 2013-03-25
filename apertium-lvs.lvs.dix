@@ -18,6 +18,10 @@
     <sdef n="preadv"   c="Preadverbial"/>
     <sdef n="num"      c="Numeral"/>
 
+    <sdef n="tv"       c="Transitive"/>
+    <sdef n="iv"       c="Intransitive"/>
+    <sdef n="TD"       c="Transitivity unknown"/>
+
     <sdef n="rel"      c="Relative"/>
     <sdef n="pers"     c="Personal"/>
     <sdef n="al"       c="Other"/>
@@ -2791,7 +2795,7 @@
     <pardef n="/būt__vbser">
       <e><p><l>būt</l><r>būt<s n="vbser"/><s n="inf"/></r></p></e>
 
-      <!-- Other non-finite forms -->
+      <!-- Add non-finite forms -->
 
       <e><par n="ne"/><p><l>esmu</l><r>būt<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><par n="ne"/><p><l>esi</l><r>būt<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
@@ -2819,66 +2823,138 @@
       <e><par n="ne"/><p><l>esi</l><r>būt<s n="vbser"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><par n="ne"/><p><l>esiet</l><r>būt<s n="vbser"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
-
+ 
+    <pardef n="lido/t__vblex">
+      <e>       <p><l>t</l>         <r>t<s n="vblex"/><s n="iv"/><s n="inf"/></r></p></e>
+      <e>       <p><l>jot</l>       <r>t<s n="vblex"/><s n="iv"/><s n="pprs"/><s n="actv"/><s n="adv"/></r></p></e>
+      <e>       <p><l>jam</l>       <r>t<s n="vblex"/><s n="iv"/><s n="pprs"/><s n="ind"/></r></p></e>
+    
+      <e>       <p><l>j</l>         <r>t<s n="vblex"/><s n="iv"/></r></p><par n="skrien/ošs__pprs_act"/></e>
+      <e>       <p><l>j</l>         <r>t<s n="vblex"/><s n="iv"/></r></p><par n="cēl/is__pp_act"/></e>
+      <e>       <p><l></l>          <r>t<s n="vblex"/><s n="iv"/></r></p><par n="mez/dams__pprs_act"/></e>
+      <e>       <p><l>jam</l>       <r>t<s n="vblex"/><s n="iv"/></r></p><par n="zogam/s__pprs_psv"/></e>
+      <e>       <p><l>t</l>         <r>t<s n="vblex"/><s n="iv"/></r></p><par n="lēkt/s__pp_psv"/></e>
+    
+      <e>       <p><l>ju</l>        <r>t<s n="vblex"/><s n="iv"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>jam</l>       <r>t<s n="vblex"/><s n="iv"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l></l>          <r>t<s n="vblex"/><s n="iv"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>jat</l>       <r>t<s n="vblex"/><s n="iv"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l></l>          <r>t<s n="vblex"/><s n="iv"/><s n="pres"/><s n="p3"/><s n="sp"/></r></p></e>
+    
+      <e>       <p><l>ju</l>        <r>t<s n="vblex"/><s n="iv"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>jām</l>       <r>t<s n="vblex"/><s n="iv"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ji</l>        <r>t<s n="vblex"/><s n="iv"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>jāt</l>       <r>t<s n="vblex"/><s n="iv"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ja</l>        <r>t<s n="vblex"/><s n="iv"/><s n="past"/><s n="p3"/><s n="sp"/></r></p></e>
+    
+      <e>       <p><l>šu</l>        <r>t<s n="vblex"/><s n="iv"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>sim</l>       <r>t<s n="vblex"/><s n="iv"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>si</l>        <r>t<s n="vblex"/><s n="iv"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>siet</l>      <r>t<s n="vblex"/><s n="iv"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>sit</l>       <r>t<s n="vblex"/><s n="iv"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>s</l>         <r>t<s n="vblex"/><s n="iv"/><s n="fut"/><s n="p3"/><s n="sp"/></r></p></e>
+    
+      <e>       <p><l></l>          <r>t<s n="vblex"/><s n="iv"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>jiet</l>      <r>t<s n="vblex"/><s n="iv"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+    </pardef>
+ 
+    <pardef n="apvieno/t__vblex">
+      <e>       <p><l>t</l>         <r>t<s n="vblex"/><s n="tv"/><s n="inf"/></r></p></e>
+      <e>       <p><l>jot</l>       <r>t<s n="vblex"/><s n="tv"/><s n="pprs"/><s n="actv"/><s n="adv"/></r></p></e>
+      <e>       <p><l>jam</l>       <r>t<s n="vblex"/><s n="tv"/><s n="pprs"/><s n="ind"/></r></p></e>
+    
+      <e>       <p><l>j</l>         <r>t<s n="vblex"/><s n="tv"/></r></p><par n="skrien/ošs__pprs_act"/></e>
+      <e>       <p><l>j</l>         <r>t<s n="vblex"/><s n="tv"/></r></p><par n="cēl/is__pp_act"/></e>
+      <e>       <p><l></l>          <r>t<s n="vblex"/><s n="tv"/></r></p><par n="mez/dams__pprs_act"/></e>
+      <e>       <p><l>jam</l>       <r>t<s n="vblex"/><s n="tv"/></r></p><par n="zogam/s__pprs_psv"/></e>
+      <e>       <p><l>t</l>         <r>t<s n="vblex"/><s n="tv"/></r></p><par n="lēkt/s__pp_psv"/></e>
+    
+      <e>       <p><l>ju</l>        <r>t<s n="vblex"/><s n="tv"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>jam</l>       <r>t<s n="vblex"/><s n="tv"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l></l>          <r>t<s n="vblex"/><s n="tv"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>jat</l>       <r>t<s n="vblex"/><s n="tv"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l></l>          <r>t<s n="vblex"/><s n="tv"/><s n="pres"/><s n="p3"/><s n="sp"/></r></p></e>
+    
+      <e>       <p><l>ju</l>        <r>t<s n="vblex"/><s n="tv"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>jām</l>       <r>t<s n="vblex"/><s n="tv"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ji</l>        <r>t<s n="vblex"/><s n="tv"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>jāt</l>       <r>t<s n="vblex"/><s n="tv"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ja</l>        <r>t<s n="vblex"/><s n="tv"/><s n="past"/><s n="p3"/><s n="sp"/></r></p></e>
+    
+      <e>       <p><l>šu</l>        <r>t<s n="vblex"/><s n="tv"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>sim</l>       <r>t<s n="vblex"/><s n="tv"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>si</l>        <r>t<s n="vblex"/><s n="tv"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>siet</l>      <r>t<s n="vblex"/><s n="tv"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>sit</l>       <r>t<s n="vblex"/><s n="tv"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>s</l>         <r>t<s n="vblex"/><s n="tv"/><s n="fut"/><s n="p3"/><s n="sp"/></r></p></e>
+    
+      <e>       <p><l></l>          <r>t<s n="vblex"/><s n="tv"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>jiet</l>      <r>t<s n="vblex"/><s n="tv"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+    </pardef>
     
     <pardef n="vīlē/t__vblex">
-      <e>       <p><l>t</l>         <r>t<s n="vblex"/><s n="inf"/></r></p></e>
-      <e>       <p><l>jot</l>       <r>t<s n="vblex"/><s n="pprs"/><s n="actv"/><s n="adv"/></r></p></e>
-      <e>       <p><l>jam</l>       <r>t<s n="vblex"/><s n="pprs"/><s n="ind"/></r></p></e>
+      <e>       <p><l>t</l>         <r>t<s n="vblex"/><s n="TD"/><s n="inf"/></r></p></e>
+      <e>       <p><l>jot</l>       <r>t<s n="vblex"/><s n="TD"/><s n="pprs"/><s n="actv"/><s n="adv"/></r></p></e>
+      <e>       <p><l>jam</l>       <r>t<s n="vblex"/><s n="TD"/><s n="pprs"/><s n="ind"/></r></p></e>
     
-      <e>       <p><l>j</l>         <r>t<s n="vblex"/></r></p><par n="skrien/ošs__pprs_act"/></e>
-      <e>       <p><l>j</l>         <r>t<s n="vblex"/></r></p><par n="cēl/is__pp_act"/></e>
-      <e>       <p><l></l>          <r>t<s n="vblex"/></r></p><par n="mez/dams__pprs_act"/></e>
-      <e>       <p><l>jam</l>       <r>t<s n="vblex"/></r></p><par n="zogam/s__pprs_psv"/></e>
-      <e>       <p><l>t</l>         <r>t<s n="vblex"/></r></p><par n="lēkt/s__pp_psv"/></e>
+      <e>       <p><l>j</l>         <r>t<s n="vblex"/><s n="TD"/></r></p><par n="skrien/ošs__pprs_act"/></e>
+      <e>       <p><l>j</l>         <r>t<s n="vblex"/><s n="TD"/></r></p><par n="cēl/is__pp_act"/></e>
+      <e>       <p><l></l>          <r>t<s n="vblex"/><s n="TD"/></r></p><par n="mez/dams__pprs_act"/></e>
+      <e>       <p><l>jam</l>       <r>t<s n="vblex"/><s n="TD"/></r></p><par n="zogam/s__pprs_psv"/></e>
+      <e>       <p><l>t</l>         <r>t<s n="vblex"/><s n="TD"/></r></p><par n="lēkt/s__pp_psv"/></e>
     
-      <e>       <p><l>ju</l>        <r>t<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>jam</l>       <r>t<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l></l>          <r>t<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>jat</l>       <r>t<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l></l>          <r>t<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sp"/></r></p></e>
+      <e>       <p><l>ju</l>        <r>t<s n="vblex"/><s n="TD"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>jam</l>       <r>t<s n="vblex"/><s n="TD"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l></l>          <r>t<s n="vblex"/><s n="TD"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>jat</l>       <r>t<s n="vblex"/><s n="TD"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l></l>          <r>t<s n="vblex"/><s n="TD"/><s n="pres"/><s n="p3"/><s n="sp"/></r></p></e>
     
-      <e>       <p><l>ju</l>        <r>t<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>jām</l>       <r>t<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>ji</l>        <r>t<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>jāt</l>       <r>t<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>ja</l>        <r>t<s n="vblex"/><s n="past"/><s n="p3"/><s n="sp"/></r></p></e>
+      <e>       <p><l>ju</l>        <r>t<s n="vblex"/><s n="TD"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>jām</l>       <r>t<s n="vblex"/><s n="TD"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ji</l>        <r>t<s n="vblex"/><s n="TD"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>jāt</l>       <r>t<s n="vblex"/><s n="TD"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ja</l>        <r>t<s n="vblex"/><s n="TD"/><s n="past"/><s n="p3"/><s n="sp"/></r></p></e>
     
-      <e>       <p><l>šu</l>        <r>t<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e>       <p><l>sim</l>       <r>t<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e>       <p><l>si</l>        <r>t<s n="vblex"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>siet</l>      <r>t<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>sit</l>       <r>t<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e>       <p><l>s</l>         <r>t<s n="vblex"/><s n="fut"/><s n="p3"/><s n="sp"/></r></p></e>
+      <e>       <p><l>šu</l>        <r>t<s n="vblex"/><s n="TD"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e>       <p><l>sim</l>       <r>t<s n="vblex"/><s n="TD"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>si</l>        <r>t<s n="vblex"/><s n="TD"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>siet</l>      <r>t<s n="vblex"/><s n="TD"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>sit</l>       <r>t<s n="vblex"/><s n="TD"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l>s</l>         <r>t<s n="vblex"/><s n="TD"/><s n="fut"/><s n="p3"/><s n="sp"/></r></p></e>
     
-      <e>       <p><l></l>          <r>t<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e>       <p><l>jiet</l>      <r>t<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e>       <p><l></l>          <r>t<s n="vblex"/><s n="TD"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e>       <p><l>jiet</l>      <r>t<s n="vblex"/><s n="TD"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
     
 
     <pardef n="atr/ast__vblex">
-      <e><p><l>adīšu</l><r>ast<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p><l>adīsim</l><r>ast<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p><l>adīsi</l><r>ast<s n="vblex"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e r="LR"><p><l>adīsiet</l><r>ast<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>adīsit</l><r>ast<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>adīs</l><r>ast<s n="vblex"/><s n="fut"/><s n="p3"/><s n="sp"/></r></p></e>
-      <e><p><l>ast</l><r>ast<s n="vblex"/><s n="inf"/></r></p></e>
-      <e><p><l>adu</l><r>ast<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p><l>adām</l><r>ast<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p><l>adi</l><r>ast<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>adāt</l><r>ast<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>ada</l><r>ast<s n="vblex"/><s n="past"/><s n="p3"/><s n="sp"/></r></p></e>
-      <e><p><l>odu</l><r>ast<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p><l>odam</l><r>ast<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p><l>odi</l><r>ast<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>odat</l><r>ast<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>od</l><r>ast<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sp"/></r></p></e>
-      <e i="yes" c="No idea what this is :/"><p><l>ašanos</l><r>ast<s n="vblex"/></r></p></e>
-      <e i="yes" c="No idea what this is :/"><p><l>azdamies</l><r>ast<s n="vblex"/></r></p></e>
-      <e i="yes" c="No idea what this is :/"><p><l>azdamās</l><r>ast<s n="vblex"/></r></p></e>
-      <e><p><l>odot</l><r>ast<s n="vblex"/><s n="pprs"/><s n="actv"/><s n="adv"/></r></p></e>
-      <e><p><l>odam</l><r>ast<s n="vblex"/><s n="pprs"/><s n="ind"/></r></p></e>
+      <e><p><l>ast</l><r>ast<s n="vblex"/><s n="tv"/><s n="inf"/></r></p></e>
+
+      <e><p><l>odu</l><r>ast<s n="vblex"/><s n="tv"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>odam</l><r>ast<s n="vblex"/><s n="tv"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>odi</l><r>ast<s n="vblex"/><s n="tv"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>odat</l><r>ast<s n="vblex"/><s n="tv"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>od</l><r>ast<s n="vblex"/><s n="tv"/><s n="pres"/><s n="p3"/><s n="sp"/></r></p></e>
+
+      <e><p><l>adu</l><r>ast<s n="vblex"/><s n="tv"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>adām</l><r>ast<s n="vblex"/><s n="tv"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>adi</l><r>ast<s n="vblex"/><s n="tv"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>adāt</l><r>ast<s n="vblex"/><s n="tv"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>ada</l><r>ast<s n="vblex"/><s n="tv"/><s n="past"/><s n="p3"/><s n="sp"/></r></p></e>
+
+
+      <e><p><l>adīšu</l><r>ast<s n="vblex"/><s n="tv"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>adīsim</l><r>ast<s n="vblex"/><s n="tv"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>adīsi</l><r>ast<s n="vblex"/><s n="tv"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>adīsiet</l><r>ast<s n="vblex"/><s n="tv"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>adīsit</l><r>ast<s n="vblex"/><s n="tv"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>adīs</l><r>ast<s n="vblex"/><s n="tv"/><s n="fut"/><s n="p3"/><s n="sp"/></r></p></e>
+
+      <e i="yes" c="No idea what this is :/"><p><l>ašanos</l><r>ast<s n="vblex"/><s n="tv"/></r></p></e>
+      <e i="yes" c="No idea what this is :/"><p><l>azdamies</l><r>ast<s n="vblex"/><s n="tv"/></r></p></e>
+      <e i="yes" c="No idea what this is :/"><p><l>azdamās</l><r>ast<s n="vblex"/><s n="tv"/></r></p></e>
+      <e><p><l>odot</l><r>ast<s n="vblex"/><s n="tv"/><s n="pprs"/><s n="actv"/><s n="adv"/></r></p></e>
+      <e><p><l>odam</l><r>ast<s n="vblex"/><s n="tv"/><s n="pprs"/><s n="ind"/></r></p></e>
     </pardef>
 
     <pardef n="var/ēt__vbmod">
@@ -7097,6 +7173,14 @@
     <e lm="tikt"><par n="ne"/><i>t</i><par n="t/ikt__vblex"/></e>
     <e lm="varēt"><par n="ne"/><i>var</i><par n="var/ēt__vbmod"/></e>
 
+    <e lm="apvienot">        <i>apvieno</i><par n="apvieno/t__vblex"/></e>
+    <e lm="dabūt">           <i>dabū</i><par n="apvieno/t__vblex"/></e>
+    <e lm="gatavot">         <i>gatavo</i><par n="apvieno/t__vblex"/></e>
+
+    <e lm="lidot">           <i>lido</i><par n="lido/t__vblex"/></e>
+    <e lm="pļāpāt">          <i>pļāpā</i><par n="lido/t__vblex"/></e>
+    <e lm="runāt">           <i>runā</i><par n="lido/t__vblex"/></e>
+    <e lm="studēt">          <i>studē</i><par n="lido/t__vblex"/></e>
 
     <e lm="aizkavēt">        <i>aizkavē</i><par n="vīlē/t__vblex"/></e>
     <e lm="aizpīpēt">        <i>aizpīpē</i><par n="vīlē/t__vblex"/></e>
@@ -7110,7 +7194,6 @@
     <e lm="appušķot">        <i>appušķo</i><par n="vīlē/t__vblex"/></e>
     <e lm="apslāpēt">        <i>apslāpē</i><par n="vīlē/t__vblex"/></e>
     <e lm="apvainot">        <i>apvaino</i><par n="vīlē/t__vblex"/></e>
-    <e lm="apvienot">        <i>apvieno</i><par n="vīlē/t__vblex"/></e>
     <e lm="arestēt">         <i>arestē</i><par n="vīlē/t__vblex"/></e>
     <e lm="atbrīvot">        <i>atbrīvo</i><par n="vīlē/t__vblex"/></e>
     <e lm="atgādāt">         <i>atgādā</i><par n="vīlē/t__vblex"/></e>
@@ -7122,7 +7205,6 @@
     <e lm="atviļņot">        <i>atviļņo</i><par n="vīlē/t__vblex"/></e>
     <e lm="atzīmēt">         <i>atzīmē</i><par n="vīlē/t__vblex"/></e>
     <e lm="būvēt">           <i>būvē</i><par n="vīlē/t__vblex"/></e>
-    <e lm="dabūt">           <i>dabū</i><par n="vīlē/t__vblex"/></e>
     <e lm="dancot">          <i>danco</i><par n="vīlē/t__vblex"/></e>
     <e lm="demonstrēt">      <i>demonstrē</i><par n="vīlē/t__vblex"/></e>
     <e lm="dežūrēt">         <i>dežūrē</i><par n="vīlē/t__vblex"/></e>
@@ -7132,7 +7214,6 @@
     <e lm="dēvēt">           <i>dēvē</i><par n="vīlē/t__vblex"/></e>
     <e lm="eksistēt">        <i>eksistē</i><par n="vīlē/t__vblex"/></e>
     <e lm="elpot">           <i>elpo</i><par n="vīlē/t__vblex"/></e>
-    <e lm="gatavot">         <i>gatavo</i><par n="vīlē/t__vblex"/></e>
     <e lm="glabāt">          <i>glabā</i><par n="vīlē/t__vblex"/></e>
     <e lm="gremdēt">         <i>gremdē</i><par n="vīlē/t__vblex"/></e>
     <e lm="iegaumēt">        <i>iegaumē</i><par n="vīlē/t__vblex"/></e>
@@ -7203,14 +7284,12 @@
     <e lm="pārdomāt">        <i>pārdomā</i><par n="vīlē/t__vblex"/></e>
     <e lm="pārdzīvot">       <i>pārdzīvo</i><par n="vīlē/t__vblex"/></e>
     <e lm="pārtulkot">       <i>pārtulko</i><par n="vīlē/t__vblex"/></e>
-    <e lm="pļāpāt">          <i>pļāpā</i><par n="vīlē/t__vblex"/></e>
     <e lm="ražot">           <i>ražo</i><par n="vīlē/t__vblex"/></e>
     <e lm="reaģēt">          <i>reaģē</i><par n="vīlē/t__vblex"/></e>
     <e lm="rekomendēt">      <i>rekomendē</i><par n="vīlē/t__vblex"/></e>
     <e lm="renovēt">         <i>renovē</i><par n="vīlē/t__vblex"/></e>
     <e lm="ripot">           <i>ripo</i><par n="vīlē/t__vblex"/></e>
     <e lm="riskēt">          <i>riskē</i><par n="vīlē/t__vblex"/></e>
-    <e lm="runāt">           <i>runā</i><par n="vīlē/t__vblex"/></e>
     <e lm="sagatavot">       <i>sagatavo</i><par n="vīlē/t__vblex"/></e>
     <e lm="saglabāt">        <i>saglabā</i><par n="vīlē/t__vblex"/></e>
     <e lm="sakārtot">        <i>sakārto</i><par n="vīlē/t__vblex"/></e>
@@ -7224,7 +7303,6 @@
     <e lm="soļot">           <i>soļo</i><par n="vīlē/t__vblex"/></e>
     <e lm="spēlēt">          <i>spēlē</i><par n="vīlē/t__vblex"/></e>
     <e lm="strādāt">         <i>strādā</i><par n="vīlē/t__vblex"/></e>
-    <e lm="studēt">          <i>studē</i><par n="vīlē/t__vblex"/></e>
     <e lm="trokšņot">        <i>trokšņo</i><par n="vīlē/t__vblex"/></e>
     <e lm="tērzēt">          <i>tērzē</i><par n="vīlē/t__vblex"/></e>
     <e lm="tērēt">           <i>tērē</i><par n="vīlē/t__vblex"/></e>
