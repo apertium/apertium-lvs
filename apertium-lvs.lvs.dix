@@ -171,13 +171,21 @@
     </pardef>
 
     <pardef n="klus/i__adv">
-      <e><p><l>i</l><r>i<s n="adv"/><s n="sint"/><s n="pos"/></r></p></e>
+      <e><p><l>i</l><r>i<s n="adv"/><s n="sint"/></r></p></e>
       <e><p><l>āk</l><r>i<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
     </pardef>
 
+    <pardef n="klus/i__adv_sint_sup">
+      <e><p><l>āk</l><r>i<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
+    </pardef>
+
     <pardef n="tāl/u__adv">
-      <e><p><l>u</l><r>u<s n="adv"/><s n="sint"/><s n="pos"/></r></p></e>
+      <e><p><l>u</l><r>u<s n="adv"/><s n="sint"/></r></p></e>
       <e><p><l>āk</l><r>u<s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
+    </pardef>
+
+    <pardef n="tāl/u__adv_sint_sup">
+      <e><p><l>āk</l><r>u<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
     </pardef>
   
     <!-- SECTION: Pronouns -->
@@ -7060,6 +7068,7 @@
     <e lm="ļoti"><i>ļoti</i><par n="ļoti__preadv"/></e>
     <e lm="kur"><i>kur</i><par n="kur__adv"/></e>
     <e lm="vai"><i>vai</i><par n="kur__adv"/></e>
+
     <e lm="ne"><i>ne</i><par n="ārā__adv"/></e>
     <e lm="ārā"><i>ārā</i><par n="ārā__adv"/></e>
     <e lm="kad"><i>kad</i><par n="ārā__adv"/></e>
@@ -7070,10 +7079,14 @@
     <e lm="no dabas"><i>no<b/>dabas</i><par n="ārā__adv"/></e>
     <e lm="no a līdz z"><i>no<b/>a<b/>līdz<b/>z</i><par n="ārā__adv"/></e>
     <e lm="lai kur"><i>lai<b/>kur</i><par n="ārā__adv"/></e>
+    <e lm="tikai"><i>tikai</i><par n="ārā__adv"/></e> <!-- 'part' -->
 
-    <e lm="klusi"><par n="vis__pref"/><i>klus</i><par n="klus/i__adv"/></e>
-    <e lm="tālu"><par n="vis__pref"/><i>tāl</i><par n="tāl/u__adv"/></e>
-    <e lm="cauri"><par n="vis__pref"/><i>caur</i><par n="klus/i__adv"/></e>
+    <e lm="klusi"><i>klus</i><par n="klus/i__adv"/></e>
+    <e lm="klusi"><p><l>visklus</l><r>klus</r></p><par n="klus/i__adv_sint_sup"/></e>
+    <e lm="tālu"><i>tāl</i><par n="tāl/u__adv"/></e>
+    <e lm="tālu"><p><l>vistāl</l><r>tāl</r></p><par n="tāl/u__adv_sint_sup"/></e>
+    <e lm="cauri"><i>caur</i><par n="klus/i__adv"/></e>
+    <e lm="cauri"><p><l>viscaur</l><r>caur</r></p><par n="klus/i__adv_sint_sup"/></e>
 
     <!-- SECTION: Verbs -->
 
