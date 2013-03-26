@@ -2406,6 +2406,7 @@
     <!-- SECTION: Proper nouns -->
 
     <pardef n="Raimond/s__np">
+      <e><p><l>s</l><r>s<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>a</l><r>s<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>am</l><r>s<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
       <e><p><l>u</l><r>s<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -2413,7 +2414,6 @@
       <e><p><l>u</l><r>s<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="ins"/></r></p></e>
       <e><p><l></l><r>s<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
       <e><p><l>a</l><r>s<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="abl"/></r></p></e>
-      <e><p><l>s</l><r>s<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>u</l><r>s<s n="np"/><s n="ant"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p><l>iem</l><r>s<s n="np"/><s n="ant"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
       <e><p><l>us</l><r>s<s n="np"/><s n="ant"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -3431,8 +3431,6 @@
     <e lm="laiks"><i>laik</i><par n="laik/s__n"/></e>
     <e lm="skapis"><i>skap</i><par n="skap/is__n"/></e>
     <e lm="ritenis"><i>rite</i><par n="rite/nis__n"/></e>
-    <e lm="Jānis"><i>Jā</i><par n="Jā/nis__np"/></e>
-    <e lm="Raimonds"><i>Raimond</i><par n="Raimond/s__np"/></e>
     <e lm="pulkstenis"><i>pulkste</i><par n="rite/nis__n"/></e>
     <e lm="circenis"><i>circe</i><par n="rite/nis__n"/></e>
     <e lm="cirmenis"><i>cirme</i><par n="rite/nis__n"/></e>
@@ -3810,7 +3808,6 @@
     <e lm="asociācija"><i>asociācij</i><par n="al/a__n"/></e>
     <e lm="aspekts"><i>aspekt</i><par n="tip/s__n"/></e>
     <e lm="aste"><i>ast</i><par n="mut/e__n"/></e>
-    <e lm="Inese"><i>Ines</i><par n="Ines/e__np"/></e>
     <e lm="atbalsts"><i>atbalst</i><par n="tip/s__n"/></e>
     <e lm="atbilde"><i>atbil</i><par n="sē/de__n_f"/></e>
     <e lm="atbildība"><i>atbildīb</i><par n="al/a__n"/></e>
@@ -5225,6 +5222,13 @@
 
     <!-- SECTION: Proper nouns -->
 
+    <e lm="Inese"><i>Ines</i><par n="Ines/e__np"/></e>
+    <e lm="Jānis"><i>Jā</i><par n="Jā/nis__np"/></e>
+    <e lm="Raimonds"><i>Raimond</i><par n="Raimond/s__np"/></e>
+    <e lm="Džeimss"><i>Džeims</i><par n="Raimond/s__np"/></e>
+    <e lm="Marija"><i>Marij</i><par n="Rit/a__np"/></e>
+    <e lm="Rita"><i>Rit</i><par n="Rit/a__np"/></e>
+
     <e lm="Boeing"><i>Boeing</i><par n="Boeing__np"/></e>
     <e lm="Ford"><i>Ford</i><par n="Boeing__np"/></e>
     <e lm="Skonto"><i>Skonto</i><par n="Boeing__np"/></e>
@@ -5233,8 +5237,6 @@
     <e lm="Leonardo"><i>Leonardo</i><par n="Hugo__np"/></e>
     <e lm="Oto"><i>Oto</i><par n="Hugo__np"/></e>
 
-
-    <e lm="Rita"><i>Rit</i><par n="Rit/a__np"/></e>
     <e lm="Vikipēdija"><i>Vikipēdij</i><par n="al/a__n"/></e>
     <e lm="Eirovīzija"><i>Eirovīzij</i><par n="al/a__n"/></e>
     <e lm="Bagdāde"><i>Bagdād</i><par n="Bagdād/e__np"/></e>
