@@ -112,8 +112,8 @@
     </pardef>
 
     <pardef n="quotes">
-      <e>        <re>[„“]</re>        <p>          <l/>          <r><s n="lquot"/></r></p></e>
-      <e>        <re>[”]</re>        <p>          <l/>          <r><s n="rquot"/></r></p></e>
+      <e>        <re>[„“«]</re>        <p>          <l/>          <r><s n="lquot"/></r></p></e>
+      <e>        <re>[”»]</re>        <p>          <l/>          <r><s n="rquot"/></r></p></e>
       <e>        <re>["]</re>        <p>          <l/>          <r><s n="quot"/></r></p></e>
     </pardef>
 
@@ -388,7 +388,21 @@
       <e><p><l>as</l><r>š<s n="prn"/><s n="itg"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
     </pardef>
 
-    <!-- Determiners -->
+    <pardef n="ab/i__prn_ind">
+      <e><p><l>i</l><r>i<s n="prn"/><s n="ind"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>u</l><r>i<s n="prn"/><s n="ind"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>iem</l><r>i<s n="prn"/><s n="ind"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>us</l><r>i<s n="prn"/><s n="ind"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>os</l><r>i<s n="prn"/><s n="ind"/><s n="m"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e><p><l>as</l><r>i<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>u</l><r>i<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ām</l><r>i<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>as</l><r>i<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ās</l><r>i<s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
+    </pardef>
+
+
+    <!-- SECTION: Determiners -->
 
     <pardef n="kas__det">
       <e><p><l>kas</l><r>kas<s n="det"/><s n="itg"/><s n="sp"/><s n="mf"/><s n="nom"/></r></p></e>
@@ -396,6 +410,20 @@
       <e><p><l>kam</l><r>kas<s n="det"/><s n="itg"/><s n="sp"/><s n="mf"/><s n="dat"/></r></p></e>
       <e><p><l>ko</l><r>kas<s n="det"/><s n="itg"/><s n="sp"/><s n="mf"/><s n="acc"/></r></p></e>
     </pardef>
+
+    <pardef n="ab/i__det">
+      <e><p><l>i</l><r>i<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>u</l><r>i<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>iem</l><r>i<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>us</l><r>i<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>os</l><r>i<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e><p><l>as</l><r>i<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>u</l><r>i<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ām</l><r>i<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>as</l><r>i<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>ās</l><r>i<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
+    </pardef>
+
 
     <pardef n="tas__det">
       <e><p><l>tas</l><r>tas<s n="det"/><s n="dem"/><s n="sg"/><s n="m"/><s n="nom"/></r></p></e>
@@ -2793,7 +2821,7 @@
     </pardef>
 
     <pardef n="/būt__vbser">
-      <e><p><l>būt</l><r>būt<s n="vbser"/><s n="inf"/></r></p></e>
+      <e><par n="ne"/><p><l>būt</l><r>būt<s n="vbser"/><s n="inf"/></r></p></e>
 
       <!-- Add non-finite forms -->
 
@@ -3038,12 +3066,25 @@
     <e lm="bet"><i>bet</i><par n="un__cnjcoo"/></e>
     <e lm="gan"><i>gan</i><par n="un__cnjcoo"/></e>
 
+    <e lm="vai arī"><i>vai<b/>arī</i><par n="un__cnjcoo"/></e>
+    <e lm="turpretī"><i>turpretī</i><par n="un__cnjcoo"/></e>
+    <e lm="tomēr"><i>tomēr</i><par n="un__cnjcoo"/></e>
+    <e lm="taču"><i>taču</i><par n="un__cnjcoo"/></e>
+    <e lm="taču" r="LR"><p><l>tač<b/>-<b/>ču</l><r>taču</r></p><par n="un__cnjcoo"/></e>
+    <e lm="nevis"><i>nevis</i><par n="un__cnjcoo"/></e>
+    <e lm="nekā"><i>nekā</i><par n="un__cnjcoo"/></e>
+
     <e lm="lai"><i>lai</i><par n="lai__cnjsub"/></e>
     <e lm="iekams"><i>iekams</i><par n="lai__cnjsub"/></e>
     <e lm="ja"><i>ja</i><par n="lai__cnjsub"/></e>
     <e lm="jo"><i>jo</i><par n="lai__cnjsub"/></e>
     <e lm="ka"><i>ka</i><par n="lai__cnjsub"/></e>
 
+    <e lm="lai arī"><i>lai<b/>arī</i><par n="lai__cnjsub"/></e>
+    <e lm="kaut"><i>kaut</i><par n="lai__cnjsub"/></e>
+    <e lm="cik"><i>cik</i><par n="lai__cnjsub"/></e>
+
+    <e lm="turklāt"><i>turklāt</i><par n="kamēr__cnjadv"/></e>
     <e lm="kamēr"><i>kamēr</i><par n="kamēr__cnjadv"/></e>
     <e lm="tā kā"><i>tā<b/>kā</i><par n="kamēr__cnjadv"/></e>
     <e lm="tiklīdz"><i>tiklīdz</i><par n="kamēr__cnjadv"/></e>
@@ -3110,12 +3151,14 @@
     <e lm="nekāds"><i>nekād</i><par n="nekād/s__prn_neg"/></e>
     <e lm="neviens"><i>nevien</i><par n="nevien/s__prn_neg"/></e>
     <e lm="kurš"><i>kur</i><par n="kur/š__prn_itg"/></e>
+    <e lm="abi"><i>ab</i><par n="ab/i__prn_ind"/></e>
 
     <!-- SECTION: Determiners -->
     <e><par n="kas__det"/></e>
     <e><par n="tas__det"/></e>
     <e><par n="šis__det"/></e>
-    <e><i>vis</i><par n="vis/s__det"/></e>
+    <e lm="abi"><i>ab</i><par n="ab/i__det"/></e>
+    <e lm="viss"><i>vis</i><par n="vis/s__det"/></e>
 
     <!-- SECTION: Numerals -->
 
@@ -4968,6 +5011,7 @@
     <e lm="zobens"><i>zoben</i><par n="tip/s__n"/></e>
     <e lm="zobs"><i>zob</i><par n="tip/s__n"/></e>
     <e lm="zona"><i>zon</i><par n="al/a__n"/></e>
+    <e lm="eirozona"><i>eirozon</i><par n="al/a__n"/></e>
     <e lm="zonde"><i>zon</i><par n="sē/de__n_f"/></e>
     <e lm="žurka"><i>žurk</i><par n="al/a__n"/></e>
     <e lm="žurnāls"><i>žurnāl</i><par n="tip/s__n"/></e>
@@ -7148,6 +7192,7 @@
     <e lm="ne"><i>ne</i><par n="ārā__adv"/></e>
     <e lm="ārā"><i>ārā</i><par n="ārā__adv"/></e>
     <e lm="kad"><i>kad</i><par n="ārā__adv"/></e>
+    <e lm="ik"><i>ik</i><par n="ārā__adv"/></e> <!-- every -->
     <e lm="vērā"><i>vērā</i><par n="ārā__adv"/></e>
     <e lm="šeit"><i>šeit</i><par n="ārā__adv"/></e>
     <e lm="apakšā"><i>apakšā</i><par n="ārā__adv"/></e>
@@ -7178,6 +7223,7 @@
     <e lm="gatavot">         <i>gatavo</i><par n="apvieno/t__vblex"/></e>
 
     <e lm="lidot">           <i>lido</i><par n="lido/t__vblex"/></e>
+    <e lm="dzīvot">          <i>dzīvo</i><par n="lido/t__vblex"/></e>
     <e lm="pļāpāt">          <i>pļāpā</i><par n="lido/t__vblex"/></e>
     <e lm="runāt">           <i>runā</i><par n="lido/t__vblex"/></e>
     <e lm="studēt">          <i>studē</i><par n="lido/t__vblex"/></e>
