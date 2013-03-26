@@ -7401,6 +7401,9 @@
     <e lm="kur"><i>kur</i><par n="kur__adv"/></e>
     <e lm="vai"><i>vai</i><par n="kur__adv"/></e>
 
+    <e lm="tad"><i>tad</i><par n="ārā__adv"/></e> <!-- then -->
+    <e lm="tur"><i>tur</i><par n="ārā__adv"/></e> 
+    <e lm="tagad"><i>tagad</i><par n="ārā__adv"/></e> 
     <e lm="ne"><i>ne</i><par n="ārā__adv"/></e>
     <e lm="ārā"><i>ārā</i><par n="ārā__adv"/></e>
     <e lm="kad"><i>kad</i><par n="ārā__adv"/></e>
@@ -7418,6 +7421,8 @@
     <e lm="klusi"><p><l>visklus</l><r>klus</r></p><par n="klus/i__adv_sint_sup"/></e>
     <e lm="tālu"><i>tāl</i><par n="tāl/u__adv"/></e>
     <e lm="tālu"><p><l>vistāl</l><r>tāl</r></p><par n="tāl/u__adv_sint_sup"/></e>
+    <e lm="tuvu"><i>tuv</i><par n="tāl/u__adv"/></e>
+    <e lm="tuvu"><p><l>vistuv</l><r>tuv</r></p><par n="tāl/u__adv_sint_sup"/></e>
     <e lm="cauri"><i>caur</i><par n="klus/i__adv"/></e>
     <e lm="cauri"><p><l>viscaur</l><r>caur</r></p><par n="klus/i__adv_sint_sup"/></e>
 
