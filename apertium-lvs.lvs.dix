@@ -100,7 +100,7 @@
       <e>        <p><l>'</l><r>'<s n="apos"/></r></p></e>
     </pardef>
     <pardef n="separa">
-      <e>        <re>[.\?;:!]</re>        <p>          <l/>          <r><s n="sent"/></r></p></e>
+      <e>        <re>[.\?;:!…]</re>        <p>          <l/>          <r><s n="sent"/></r></p></e>
     </pardef>
 
     <pardef n="paresq">
@@ -124,8 +124,7 @@
       <e>       <re>[0-9]+([.,][0-9]+)?</re><p><l><b/>%</l><r><b/>%<s n="num"/></r></p></e>
       <e r="LR"><re>[0-9]+([.,][0-9]+)?</re><p><l>%</l><r><b/>%<s n="num"/></r></p></e>
       <e r="LR"><re>[0-9]+([.,][0-9]+)?</re><p><l> %</l><r><b/>%<s n="num"/></r></p></e>
-      <e>       <p><l>Nr.<b/></l><r>Nr.<b/></r></p><re>[A-Z]?[0-9]+</re></e>
-      <e>       <p><l>Nr.<b/></l><r>Nr.<b/></r></p><re>[A-Z]?[0-9]+/[0-9]+</re><p><l></l><r><s n="num"/></r></p></e>
+
     </pardef>
 
     <!-- SECTION: Conjunctions -->
@@ -7381,6 +7380,14 @@
   </section>
 
   <section id="final" type="inconditional">
+    <!-- Numerals for quoting references -->
+    <e><p><l>Nr.<b/></l><r>Nr.<b/></r></p><re>[A-Z]?[0-9]+</re><p><l></l><r><s n="num"/></r></p></e>
+    <e><p><l>Nr.<b/></l><r>Nr.<b/></r></p><re>[A-Z]</re><i><b/></i><re>[0-9]+</re><p><l></l><r><s n="num"/></r></p></e> <!-- Nr. C 256 -->
+    <e><p><l>Nr.<b/></l><r>Nr.<b/></r></p><re>[A-Z]+/[0-9]+</re><p><l></l><r><s n="num"/></r></p></e> <!-- Nr. XXX/2005-->
+    <e><p><l>Nr.<b/></l><r>Nr.<b/></r></p><re>[A-Z]?\-?[0-9]+/[0-9]+</re><p><l></l><r><s n="num"/></r></p></e> <!-- Nr. 2913/92 ; Nr. C-338/01 -->
+    <e><p><l>Nr.<b/></l><r>Nr.<b/></r></p><re>[A-Z]?\-?[0-9]+/[0-9]+/[A-Z]+</re><p><l></l><r><s n="num"/></r></p></e> <!-- Nr. 626/2004/EK -->
+    <e><p><l>Nr.<b/></l><r>Nr.<b/></r></p><re>[A-Z]?\-?[0-9]+.[0-9]+</re><p><l></l><r><s n="num"/></r></p></e> <!-- Nr. 6.4 -->
+
     <e><par n="separa"/></e>
     <e><par n="numeros"/></e>
     <e><par n="coma"/></e>
