@@ -17,6 +17,7 @@
     <sdef n="cnjcoo"   c="Coordinating conjunction"/>
     <sdef n="preadv"   c="Preadverbial"/>
     <sdef n="num"      c="Numeral"/>
+    <sdef n="ij"       c="Interjection"/>
 
     <sdef n="tv"       c="Transitive"/>
     <sdef n="iv"       c="Intransitive"/>
@@ -125,6 +126,12 @@
       <e r="LR"><re>[0-9]+([.,][0-9]+)?</re><p><l>%</l><r><b/>%<s n="num"/></r></p></e>
       <e r="LR"><re>[0-9]+([.,][0-9]+)?</re><p><l> %</l><r><b/>%<s n="num"/></r></p></e>
 
+    </pardef>
+ 
+    <!-- SECTION: Interjections -->
+ 
+    <pardef n="nē__ij">
+      <e><p><l></l><r><s n="ij"/></r></p></e>
     </pardef>
 
     <!-- SECTION: Conjunctions -->
@@ -3222,6 +3229,7 @@
       <e><p><l>īk</l><r>ikt<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sp"/></r></p></e>
       <e><p><l>iek</l><r>ikt<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sp"/></r></p></e>
     </pardef>
+
   </pardefs>
 
   <section id="main" type="standard">
@@ -7571,6 +7579,7 @@
 
 
     <!-- SECTION: Interjections -->
+    <e lm="nē">              <i>nē</i><par n="nē__ij"/></e>
 
 
 <!--
