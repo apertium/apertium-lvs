@@ -2442,12 +2442,12 @@
     <pardef n="Bagdād/e__np">
       <e><p><l>e</l><r>e<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>es</l><r>e<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e><p><l>es</l><r>e<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="abl"/></r></p></e>
       <e><p><l>ei</l><r>e<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
       <e><p><l>i</l><r>e<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
       <e><p><l>i</l><r>e<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
       <e><p><l>ē</l><r>e<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
       <e><p><l>e</l><r>e<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>es</l><r>e<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="abl"/></r></p></e>
     </pardef>
 
     <pardef n="Boeing__np">
@@ -2465,12 +2465,12 @@
     <pardef n="Latvij/a__np">
       <e><p><l>a</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>as</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
-      <e><p><l>as</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="abl"/></r></p></e>
       <e><p><l>ai</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
       <e><p><l>u</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
       <e><p><l>u</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
       <e><p><l>ā</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
       <e><p><l>a</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+      <e><p><l>as</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="abl"/></r></p></e>
     </pardef>
 
     <pardef n="Rit/a__np">
@@ -2510,100 +2510,6 @@
    
     <!-- SECTION: Adjectives -->
 
-    <pardef n="tīr/s__adj_sint">
-      <e><p>          <l>s</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ais</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e><p>          <l>u</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
-      <e><p>          <l>o</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
-      <e><p>          <l>a</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="gen"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ā</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="gen"/><s n="def"/></r></p></e>
-      <e><p>          <l>am</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ajam</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
-      <e><p>          <l>ā</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ajā</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="loc"/><s n="def"/></r></p></e>
-      <e><p>          <l>o</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
-      <e><p>          <l>ais</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
-      <e><p>          <l>i</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ie</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-      <e><p>          <l>us</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="acc"/><s n="ind"/></r></p></e>
-      <e><p>          <l>os</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="acc"/><s n="def"/></r></p></e>
-      <e><p>          <l>u</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="gen"/><s n="ind"/></r></p></e>
-      <e><p>          <l>o</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="gen"/><s n="def"/></r></p></e>
-      <e><p>          <l>iem</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="dat"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ajiem</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
-      <e><p>          <l>os</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="loc"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ajos</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="loc"/><s n="def"/></r></p></e>
-      <e><p>          <l>ie</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="voc"/><s n="def"/></r></p></e>
-      <e><p>          <l>a</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ā</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e><p>          <l>u</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
-      <e><p>          <l>o</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
-      <e><p>          <l>as</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="gen"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="gen"/><s n="def"/></r></p></e>
-      <e><p>          <l>ai</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ajai</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
-      <e><p>          <l>ā</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ajā</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="loc"/><s n="def"/></r></p></e>
-      <e><p>          <l>o</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
-      <e><p>          <l>ā</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
-      <e><p>          <l>as</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-      <e><p>          <l>as</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="acc"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="acc"/><s n="def"/></r></p></e>
-      <e><p>          <l>u</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="gen"/><s n="ind"/></r></p></e>
-      <e><p>          <l>o</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="gen"/><s n="def"/></r></p></e>
-      <e><p>          <l>ām</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="dat"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ajām</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
-      <e><p>          <l>ās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="loc"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ajās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="loc"/><s n="def"/></r></p></e>
-      <e><p>          <l>ās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="voc"/><s n="def"/></r></p></e>
-      <e><p>          <l>āks</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ākais</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e><p>          <l>āku</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
-      <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
-      <e><p>          <l>āka</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="gen"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ākā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="gen"/><s n="def"/></r></p></e>
-      <e><p>          <l>ākam</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ākajam</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
-      <e><p>          <l>ākā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ākajā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="loc"/><s n="def"/></r></p></e>
-      <e><p>          <l>ākais</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
-      <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
-      <e><p>          <l>āki</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ākie</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-      <e><p>          <l>ākus</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="acc"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ākos</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="acc"/><s n="def"/></r></p></e>
-      <e><p>          <l>āku</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="gen"/><s n="ind"/></r></p></e>
-      <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="gen"/><s n="def"/></r></p></e>
-      <e><p>          <l>ākiem</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="dat"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ākajiem</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
-      <e><p>          <l>ākos</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="loc"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ākajos</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="loc"/><s n="def"/></r></p></e>
-      <e><p>          <l>ākie</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="voc"/><s n="def"/></r></p></e>
-      <e><p>          <l>āka</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ākā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
-      <e><p>          <l>āku</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
-      <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
-      <e><p>          <l>ākas</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="gen"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ākās</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="gen"/><s n="def"/></r></p></e>
-      <e><p>          <l>ākai</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ākajai</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
-      <e><p>          <l>ākā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ākajā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="loc"/><s n="def"/></r></p></e>
-      <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
-      <e><p>          <l>ākā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
-      <e><p>          <l>ākas</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ākās</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
-      <e><p>          <l>ākas</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="acc"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ākās</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="acc"/><s n="def"/></r></p></e>
-      <e><p>          <l>āku</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="gen"/><s n="ind"/></r></p></e>
-      <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="gen"/><s n="def"/></r></p></e>
-      <e><p>          <l>ākām</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="dat"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ākajām</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
-      <e><p>          <l>ākās</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="loc"/><s n="ind"/></r></p></e>
-      <e><p>          <l>ākajās</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="loc"/><s n="def"/></r></p></e>
-      <e><p>          <l>ākās</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="voc"/><s n="def"/></r></p></e>
-    </pardef>
     <pardef n="tīr/s__adj_sint_sup">
       <e><p>          <l>ākais</l><r>s<s n="adj"/><s n="sint"/><s n="sup"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
       <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="sup"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
@@ -2774,6 +2680,202 @@
       <e><p>          <l>ākajās</l><r>š<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="loc"/><s n="def"/></r></p></e>
       <e><p>          <l>ākās</l><r>š<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="voc"/><s n="def"/></r></p></e>
     </pardef>
+    <pardef n="īpatnēj/s__adj_sint">
+      <e><p>          <l>s</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ais</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>u</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>o</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>a</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="gen"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ā</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="gen"/><s n="def"/></r></p></e>
+      <e><p>          <l>am</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ajam</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>am</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ā</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ajā</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ā</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ais</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>o</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>i</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ie</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>us</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>os</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>u</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="gen"/><s n="ind"/></r></p></e>
+      <e><p>          <l>o</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="gen"/><s n="def"/></r></p></e>
+      <e><p>          <l>iem</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ajiem</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>iem</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>os</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ajos</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>os</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ie</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>a</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ā</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>u</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>o</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>as</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="gen"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="gen"/><s n="def"/></r></p></e>
+      <e><p>          <l>ai</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ajai</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ai</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ā</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ajā</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ā</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ā</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>o</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>as</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>as</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>u</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="gen"/><s n="ind"/></r></p></e>
+      <e><p>          <l>o</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="gen"/><s n="def"/></r></p></e>
+      <e><p>          <l>ām</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ajām</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ām</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ajās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>āks</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākais</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>āku</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>āka</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="gen"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="gen"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākam</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākajam</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākajā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākais</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>āki</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākie</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākus</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākos</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>āku</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="gen"/><s n="ind"/></r></p></e>
+      <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="gen"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākiem</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākajiem</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākos</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākajos</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākie</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>āka</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>āku</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākas</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="gen"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākās</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="gen"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākai</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākajai</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākajā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākas</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākās</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākas</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākās</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>āku</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="gen"/><s n="ind"/></r></p></e>
+      <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="gen"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākām</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākajām</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākās</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākajās</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākās</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="voc"/><s n="def"/></r></p></e>
+    </pardef>
+    <pardef n="tīr/s__adj_sint">
+      <e><p>          <l>s</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ais</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>u</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>o</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>a</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="gen"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ā</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="gen"/><s n="def"/></r></p></e>
+      <e><p>          <l>am</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ajam</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ā</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ajā</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>o</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ais</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>i</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ie</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>us</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>os</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>u</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="gen"/><s n="ind"/></r></p></e>
+      <e><p>          <l>o</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="gen"/><s n="def"/></r></p></e>
+      <e><p>          <l>iem</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ajiem</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>os</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ajos</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ie</l><r>s<s n="adj"/><s n="sint"/><s n="m"/><s n="pl"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>a</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ā</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>u</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>o</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>as</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="gen"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="gen"/><s n="def"/></r></p></e>
+      <e><p>          <l>ai</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ajai</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ā</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ajā</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>o</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ā</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>as</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>as</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>u</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="gen"/><s n="ind"/></r></p></e>
+      <e><p>          <l>o</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="gen"/><s n="def"/></r></p></e>
+      <e><p>          <l>ām</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ajām</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ajās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ās</l><r>s<s n="adj"/><s n="sint"/><s n="f"/><s n="pl"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>āks</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākais</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>āku</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>āka</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="gen"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="gen"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākam</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākajam</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākajā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākais</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>āki</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākie</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākus</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākos</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>āku</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="gen"/><s n="ind"/></r></p></e>
+      <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="gen"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākiem</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākajiem</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākos</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākajos</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākie</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="m"/><s n="pl"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>āka</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>āku</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākas</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="gen"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākās</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="gen"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākai</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākajai</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākajā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākā</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="sg"/><s n="voc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākas</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="nom"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākās</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="nom"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākas</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="acc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākās</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="acc"/><s n="def"/></r></p></e>
+      <e><p>          <l>āku</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="gen"/><s n="ind"/></r></p></e>
+      <e><p>          <l>āko</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="gen"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākām</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="dat"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākajām</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="dat"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākās</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="loc"/><s n="ind"/></r></p></e>
+      <e><p>          <l>ākajās</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="loc"/><s n="def"/></r></p></e>
+      <e><p>          <l>ākās</l><r>s<s n="adj"/><s n="sint"/><s n="comp"/><s n="f"/><s n="pl"/><s n="voc"/><s n="def"/></r></p></e>
+    </pardef>
     <pardef n="zaļ/š__adj_sint_sup">
       <e><p>          <l>ākais</l><r>š<s n="adj"/><s n="sint"/><s n="sup"/><s n="m"/><s n="sg"/><s n="nom"/><s n="def"/></r></p></e>
       <e><p>          <l>āko</l><r>š<s n="adj"/><s n="sint"/><s n="sup"/><s n="m"/><s n="sg"/><s n="acc"/><s n="def"/></r></p></e>
@@ -2850,6 +2952,7 @@
       <e><p>          <l>ās</l><r>s<s n="adj"/><s n="f"/><s n="pl"/><s n="loc"/><s n="def"/></r></p></e>
       <e><p>          <l>ās</l><r>s<s n="adj"/><s n="f"/><s n="pl"/><s n="voc"/><s n="def"/></r></p></e>
     </pardef>
+
 
     <!-- SECTION: Verbs -->
 
@@ -3371,6 +3474,7 @@
     <e lm="savs"><i>sav</i><par n="man/s__det"/></e>
 
     <!-- SECTION: Numerals -->
+    <e><re>M?X?(I|II|III|IV|V|VI|VII|VIII|IX|X)+</re><p><l></l><r><s n="num"/></r></p></e>
 
     <e lm="pusotra"><i>pusotr</i><par n="pusotr/a__num"/></e>
     <e lm="pusceturta"><i>pusceturt</i><par n="pusotr/a__num"/></e>
@@ -5236,6 +5340,12 @@
     <e lm="Raimonds"><i>Raimond</i><par n="Raimond/s__np"/></e>
     <e lm="Džeimss"><i>Džeims</i><par n="Raimond/s__np"/></e>
     <e lm="Marija"><i>Marij</i><par n="Rit/a__np"/></e>
+    <e lm="Aiga"><i>Aig</i><par n="Rit/a__np"/></e>
+    <e lm="Anna"><i>Ann</i><par n="Rit/a__np"/></e>
+    <e lm="Inga"><i>Ing</i><par n="Rit/a__np"/></e>
+    <e lm="Aigita"><i>Aigit</i><par n="Rit/a__np"/></e>
+    <e lm="Austra"><i>Austr</i><par n="Rit/a__np"/></e>
+    <e lm="Aigija"><i>Aigij</i><par n="Rit/a__np"/></e>
     <e lm="Rita"><i>Rit</i><par n="Rit/a__np"/></e>
 
     <e lm="Boeing"><i>Boeing</i><par n="Boeing__np"/></e>
@@ -5249,8 +5359,24 @@
     <e lm="Vikipēdija"><i>Vikipēdij</i><par n="al/a__n"/></e>
     <e lm="Eirovīzija"><i>Eirovīzij</i><par n="al/a__n"/></e>
     <e lm="Bagdāde"><i>Bagdād</i><par n="Bagdād/e__np"/></e>
+    <e lm="Parīze"><i>Parīz</i><par n="Bagdād/e__np"/></e>
+    <e lm="Portugāle"><i>Portugāl</i><par n="Bagdād/e__np"/></e>
+    <e lm="Islande" r="LR"><p><l>Island</l><r>Īsland</r></p><par n="Bagdād/e__np"/></e>
+    <e lm="Īslande"><i>Īsland</i><par n="Bagdād/e__np"/></e>
+    <e lm="Grenlande"><i>Grenland</i><par n="Bagdād/e__np"/></e>
+    <e lm="Brisele"><i>Brisel</i><par n="Bagdād/e__np"/></e>
+    <e lm="Nīderlande"><i>Nīderland</i><par n="Bagdād/e__np"/></e>
     <e lm="Latvija"><i>Latvij</i><par n="Latvij/a__np"/></e>
+    <e lm="Maroka"><i>Marok</i><par n="Latvij/a__np"/></e>
+    <e lm="Lihtenšteina"><i>Lihtenštein</i><par n="Latvij/a__np"/></e>
+    <e lm="Vjetnama"><i>Vjetnam</i><par n="Latvij/a__np"/></e>
+    <e lm="Pakistāna"><i>Pakistān</i><par n="Latvij/a__np"/></e>
+    <e lm="Malta"><i>Malt</i><par n="Latvij/a__np"/></e>
+    <e lm="Urugvaja"><i>Urugvaj</i><par n="Latvij/a__np"/></e>
     <e lm="Polija"><i>Polij</i><par n="Latvij/a__np"/></e>
+    <e lm="Moldova"><i>Moldov</i><par n="Latvij/a__np"/></e>
+    <e lm="Lietuva"><i>Lietuv</i><par n="Latvij/a__np"/></e>
+    <e lm="Luksemburga"><i>Luksemburg</i><par n="Latvij/a__np"/></e>
     <e lm="Ungārija"><i>Ungārij</i><par n="Latvij/a__np"/></e>
     <e lm="Austrālija"><i>Austrālij</i><par n="Latvij/a__np"/></e>
     <e lm="Aļaska"><i>Aļask</i><par n="Latvij/a__np"/></e>
@@ -5443,8 +5569,11 @@
     <e lm="brūns"><i>brūn</i><par n="tīr/s__adj_sint"/></e>
     <e lm="brūns"><p><l>visbrūn</l><r>brūn</r></p><par n="tīr/s__adj_sint_sup"/></e>
 
+
     <e lm="administratīvs"><i>administratīv</i><par n="tīr/s__adj_sint"/></e>
     <e lm="administratīvs"><p><l>visadministratīv</l><r>administratīv</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="akadēmisks"><i>akadēmisk</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="akadēmisks"><p><l>visakadēmisk</l><r>akadēmisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="alkoholisks"><i>alkoholisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="alkoholisks"><p><l>visalkoholisk</l><r>alkoholisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="alternatīvs"><i>alternatīv</i><par n="tīr/s__adj_sint"/></e>
@@ -5452,6 +5581,8 @@
     <e lm="analogs"><i>analog</i><par n="tīr/s__adj_sint"/></e>
     <e lm="analogs"><p><l>visanalog</l><r>analog</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="apkārtējs"><i>apkārtēj</i><par n="ārēj/s__adj"/></e>
+    <e lm="aromātisks"><i>aromātisk</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="aromātisks"><p><l>visaromātisk</l><r>aromātisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="atbilstīgs"><i>atbilstīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="atbilstīgs"><p><l>visatbilstīg</l><r>atbilstīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="atpakaļejošs"><i>atpakaļejoš</i><par n="tīr/s__adj_sint"/></e>
@@ -5462,6 +5593,8 @@
     <e lm="augšējs"><i>augšēj</i><par n="ārēj/s__adj"/></e>
     <e lm="automātisks"><i>automātisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="automātisks"><p><l>visautomātisk</l><r>automātisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="balts"><i>balt</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="balts"><p><l>visbalt</l><r>balt</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="bioloģisks"><i>bioloģisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="bioloģisks"><p><l>visbioloģisk</l><r>bioloģisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="brīvprātīgs"><i>brīvprātīg</i><par n="tīr/s__adj_sint"/></e>
@@ -5489,6 +5622,7 @@
     <e lm="daļējs"><i>daļēj</i><par n="ārēj/s__adj"/></e>
     <e lm="dažāds"><i>dažād</i><par n="tīr/s__adj_sint"/></e>
     <e lm="dažāds"><p><l>visdažād</l><r>dažād</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="demogrāfisks"><i>demogrāfisk</i><par n="fiskāl/s__adj"/></e>
     <e lm="derīgs"><i>derīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="derīgs"><p><l>visderīg</l><r>derīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="digitāls"><i>digitāl</i><par n="tīr/s__adj_sint"/></e>
@@ -5500,6 +5634,8 @@
     <e lm="divējāds"><p><l>visdivējād</l><r>divējād</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="drošs"><i>droš</i><par n="tīr/s__adj_sint"/></e>
     <e lm="drošs"><p><l>visdroš</l><r>droš</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="eksperimentāls"><i>eksperimentāl</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="eksperimentāls"><p><l>viseksperimentāl</l><r>eksperimentāl</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="elektrisks"><i>elektrisk</i><par n="fiskāl/s__adj"/></e>
     <e lm="elektromagnētisks"><i>elektromagnētisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="elektromagnētisks"><p><l>viselektromagnētisk</l><r>elektromagnētisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
@@ -5511,21 +5647,30 @@
     <e lm="federatīvs"><i>federatīv</i><par n="fiskāl/s__adj"/></e>
     <e lm="finansiāls"><i>finansiāl</i><par n="fiskāl/s__adj"/></e>
     <e lm="fiskāls"><i>fiskāl</i><par n="fiskāl/s__adj"/></e>
+    <e lm="fitosanitārs"><i>fitosanitār</i><par n="fiskāl/s__adj"/></e>
     <e lm="fizisks"><i>fizisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="fizisks"><p><l>visfizisk</l><r>fizisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="fondēts"><i>fondēt</i><par n="fiskāl/s__adj"/></e>
+    <e lm="frontāls"><i>frontāl</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="frontāls"><p><l>visfrontāl</l><r>frontāl</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="garīgs"><i>garīg</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="garīgs"><p><l>visgarīg</l><r>garīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="garš"><i>gar</i><par n="zaļ/š__adj_sint"/></e>
     <e lm="garš"><p><l>visgar</l><r>gar</r></p><par n="zaļ/š__adj_sint_sup"/></e>
     <e lm="godīgs"><i>godīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="godīgs"><p><l>visgodīg</l><r>godīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="grupāls"><i>grupāl</i><par n="fiskāl/s__adj"/></e>
     <e lm="identisks"><i>identisk</i><par n="fiskāl/s__adj"/></e>
     <e lm="iekšējs"><i>iekšēj</i><par n="ārēj/s__adj"/></e>
     <e lm="iepriekšējs"><i>iepriekšēj</i><par n="ārēj/s__adj"/></e>
     <e lm="ikgadējs"><i>ikgadēj</i><par n="ārēj/s__adj"/></e>
+    <e lm="ilglaicīgs"><i>ilglaicīg</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="ilglaicīgs"><p><l>visilglaicīg</l><r>ilglaicīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="ilgtspējīgs"><i>ilgtspējīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="indikatīvs"><i>indikatīv</i><par n="tīr/s__adj_sint"/></e>
     <e lm="indikatīvs"><p><l>visindikatīv</l><r>indikatīv</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="infekciozs"><i>infekcioz</i><par n="fiskāl/s__adj"/></e>
+    <e lm="inovatīvs"><i>inovatīv</i><par n="fiskāl/s__adj"/></e>
     <e lm="institucionāls"><i>institucionāl</i><par n="fiskāl/s__adj"/></e>
     <e lm="integrāls"><i>integrāl</i><par n="fiskāl/s__adj"/></e>
     <e lm="juridisks"><i>juridisk</i><par n="fiskāl/s__adj"/></e>
@@ -5533,6 +5678,8 @@
     <e lm="kaitīgs"><p><l>viskaitīg</l><r>kaitīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="kalendārs"><i>kalendār</i><par n="tīr/s__adj_sint"/></e>
     <e lm="kalendārs"><p><l>viskalendār</l><r>kalendār</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="kancerogēns"><i>kancerogēn</i><par n="fiskāl/s__adj"/></e>
+    <e lm="katalītisks"><i>katalītisk</i><par n="fiskāl/s__adj"/></e>
     <e lm="katarāls"><i>katarāl</i><par n="tīr/s__adj_sint"/></e>
     <e lm="katarāls"><p><l>viskatarāl</l><r>katarāl</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="klasisks"><i>klasisk</i><par n="tīr/s__adj_sint"/></e>
@@ -5547,6 +5694,8 @@
     <e lm="konstitucionāls"><p><l>viskonstitucionāl</l><r>konstitucionāl</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="konsultatīvs"><i>konsultatīv</i><par n="tīr/s__adj_sint"/></e>
     <e lm="konsultatīvs"><p><l>viskonsultatīv</l><r>konsultatīv</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="konsulārs"><i>konsulār</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="konsulārs"><p><l>viskonsulār</l><r>konsulār</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="kopējs"><i>kopēj</i><par n="ārēj/s__adj"/></e>
     <e lm="kārtējs"><i>kārtēj</i><par n="ārēj/s__adj"/></e>
     <e lm="labs"><i>lab</i><par n="tīr/s__adj_sint"/></e>
@@ -5559,6 +5708,7 @@
     <e lm="lineārs"><p><l>vislineār</l><r>lineār</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="līdzvērtīgs"><i>līdzvērtīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="līdzvērtīgs"><p><l>vislīdzvērtīg</l><r>līdzvērtīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="makroekonomisks"><i>makroekonomisk</i><par n="fiskāl/s__adj"/></e>
     <e lm="mazs"><i>maz</i><par n="tīr/s__adj_sint"/></e>
     <e lm="mazs"><p><l>vismaz</l><r>maz</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="medicīnisks"><i>medicīnisk</i><par n="tīr/s__adj_sint"/></e>
@@ -5568,14 +5718,22 @@
     <e lm="minimāls"><i>minimāl</i><par n="tīr/s__adj_sint"/></e>
     <e lm="minimāls"><p><l>visminimāl</l><r>minimāl</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="monetārs"><i>monetār</i><par n="fiskāl/s__adj"/></e>
+    <e lm="mutisks"><i>mutisk</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="mutisks"><p><l>vismutisk</l><r>mutisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="nacionāls"><i>nacionāl</i><par n="tīr/s__adj_sint"/></e>
     <e lm="nacionāls"><p><l>visnacionāl</l><r>nacionāl</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="nebūtisks"><i>nebūtisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="nebūtisks"><p><l>visnebūtisk</l><r>nebūtisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="nederīgs"><i>nederīg</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="nederīgs"><p><l>visnederīg</l><r>nederīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="negatīvs"><i>negatīv</i><par n="tīr/s__adj_sint"/></e>
     <e lm="negatīvs"><p><l>visnegatīv</l><r>negatīv</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="negodīgs"><i>negodīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="negodīgs"><p><l>visnegodīg</l><r>negodīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="nekaitīgs"><i>nekaitīg</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="nekaitīgs"><p><l>visnekaitīg</l><r>nekaitīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="nekonfidenciāls"><i>nekonfidenciāl</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="nekonfidenciāls"><p><l>visnekonfidenciāl</l><r>nekonfidenciāl</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="nelegāls"><i>nelegāl</i><par n="tīr/s__adj_sint"/></e>
     <e lm="nelegāls"><p><l>visnelegāl</l><r>nelegāl</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="neliels"><i>neliel</i><par n="tīr/s__adj_sint"/></e>
@@ -5584,14 +5742,24 @@
     <e lm="nelikumīgs"><p><l>visnelikumīg</l><r>nelikumīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="nemainīgs"><i>nemainīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="nemainīgs"><p><l>visnemainīg</l><r>nemainīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="nemateriāls"><i>nemateriāl</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="nemateriāls"><p><l>visnemateriāl</l><r>nemateriāl</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="neorganisks"><i>neorganisk</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="neorganisks"><p><l>visneorganisk</l><r>neorganisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="nepareizs"><i>nepareiz</i><par n="tīr/s__adj_sint"/></e>
     <e lm="nepareizs"><p><l>visnepareiz</l><r>nepareiz</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="nepatiess"><i>nepaties</i><par n="tīr/s__adj_sint"/></e>
     <e lm="nepatiess"><p><l>visnepaties</l><r>nepaties</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="nepilngadīgs"><i>nepilngadīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="nepilngadīgs"><p><l>visnepilngadīg</l><r>nepilngadīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="nepilnīgs"><i>nepilnīg</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="nepilnīgs"><p><l>visnepilnīg</l><r>nepilnīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="nesens"><i>nesen</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="nesens"><p><l>visnesen</l><r>nesen</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="netiešs"><i>netieš</i><par n="tīr/s__adj_sint"/></e>
     <e lm="netiešs"><p><l>visnetieš</l><r>netieš</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="nevajadzīgs"><i>nevajadzīg</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="nevajadzīgs"><p><l>visnevajadzīg</l><r>nevajadzīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="nevalstisks"><i>nevalstisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="nevalstisks"><p><l>visnevalstisk</l><r>nevalstisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="nomināls"><i>nomināl</i><par n="tīr/s__adj_sint"/></e>
@@ -5607,12 +5775,17 @@
     <e lm="organizatorisks"><i>organizatorisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="organizatorisks"><p><l>visorganizatorisk</l><r>organizatorisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="pakaļējs"><i>pakaļēj</i><par n="ārēj/s__adj"/></e>
+    <e lm="parlamentārs"><i>parlamentār</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="parlamentārs"><p><l>visparlamentār</l><r>parlamentār</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="pateicīgs"><i>pateicīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="pateicīgs"><p><l>vispateicīg</l><r>pateicīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="pašnodarbināts"><i>pašnodarbināt</i><par n="fiskāl/s__adj"/></e>
     <e lm="pašreizējs"><i>pašreizēj</i><par n="fiskāl/s__adj"/></e>
     <e lm="periodisks"><i>periodisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="periodisks"><p><l>visperiodisk</l><r>periodisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="perpendikulārs"><i>perpendikulār</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="perpendikulārs"><p><l>visperpendikulār</l><r>perpendikulār</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="piederīgs"><i>piederīg</i><par n="fiskāl/s__adj"/></e>
     <e lm="pienācīgs"><i>pienācīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="pienācīgs"><p><l>vispienācīg</l><r>pienācīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="pilns"><i>piln</i><par n="tīr/s__adj_sint"/></e>
@@ -5625,7 +5798,10 @@
     <e lm="politisks"><p><l>vispolitisk</l><r>politisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="potenciāls"><i>potenciāl</i><par n="tīr/s__adj_sint"/></e>
     <e lm="potenciāls"><p><l>vispotenciāl</l><r>potenciāl</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="preferenciāls"><i>preferenciāl</i><par n="fiskāl/s__adj"/></e>
     <e lm="pretējs"><i>pretēj</i><par n="ārēj/s__adj"/></e>
+    <e lm="preventīvs"><i>preventīv</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="preventīvs"><p><l>vispreventīv</l><r>preventīv</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="priekšējs"><i>priekšēj</i><par n="ārēj/s__adj"/></e>
     <e lm="primārs"><i>primār</i><par n="tīr/s__adj_sint"/></e>
     <e lm="primārs"><p><l>visprimār</l><r>primār</r></p><par n="tīr/s__adj_sint_sup"/></e>
@@ -5634,6 +5810,8 @@
     <e lm="procesuāls"><i>procesuāl</i><par n="fiskāl/s__adj"/></e>
     <e lm="provizorisks"><i>provizorisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="provizorisks"><p><l>visprovizorisk</l><r>provizorisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="psihotrops"><i>psihotrop</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="psihotrops"><p><l>vispsihotrop</l><r>psihotrop</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="pārmērīgs"><i>pārmērīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="pārmērīgs"><p><l>vispārmērīg</l><r>pārmērīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="rakstisks"><i>rakstisk</i><par n="tīr/s__adj_sint"/></e>
@@ -5643,19 +5821,28 @@
     <e lm="rupjš"><p><l>visrupj</l><r>rupj</r></p><par n="zaļ/š__adj_sint_sup"/></e>
     <e lm="rūpniecisks"><i>rūpniecisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="rūpniecisks"><p><l>visrūpniecisk</l><r>rūpniecisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="rūpīgs"><i>rūpīg</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="rūpīgs"><p><l>visrūpīg</l><r>rūpīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="sabiedrisks"><i>sabiedrisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="sabiedrisks"><p><l>vissabiedrisk</l><r>sabiedrisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="saderīgs"><i>saderīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="saderīgs"><p><l>vissaderīg</l><r>saderīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="saimniecisks"><i>saimniecisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="saimniecisks"><p><l>vissaimniecisk</l><r>saimniecisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="sanitārs"><i>sanitār</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="sanitārs"><p><l>vissanitār</l><r>sanitār</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="saprātīgs"><i>saprātīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="saprātīgs"><p><l>vissaprātīg</l><r>saprātīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="savlaicīgs"><i>savlaicīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="savlaicīgs"><p><l>vissavlaicīg</l><r>savlaicīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="savstarpējs"><i>savstarpēj</i><par n="ārēj/s__adj"/></e>
+    <e lm="sekundārs"><i>sekundār</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="sekundārs"><p><l>vissekundār</l><r>sekundār</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="sintētisks"><i>sintētisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="sintētisks"><p><l>vissintētisk</l><r>sintētisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="sociālekonomisks"><i>sociālekonomisk</i><par n="fiskāl/s__adj"/></e>
+    <e lm="sociālistisks"><i>sociālistisk</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="sociālistisks"><p><l>vissociālistisk</l><r>sociālistisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="stabils"><i>stabil</i><par n="tīr/s__adj_sint"/></e>
     <e lm="stabils"><p><l>visstabil</l><r>stabil</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="starptautisks"><i>starptautisk</i><par n="fiskāl/s__adj"/></e>
@@ -5663,6 +5850,8 @@
     <e lm="statistisks"><p><l>visstatistisk</l><r>statistisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="stratēģisks"><i>stratēģisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="stratēģisks"><p><l>visstratēģisk</l><r>stratēģisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="straujš"><i>strauj</i><par n="zaļ/š__adj_sint"/></e>
+    <e lm="straujš"><p><l>visstrauj</l><r>strauj</r></p><par n="zaļ/š__adj_sint_sup"/></e>
     <e lm="strukturāls"><i>strukturāl</i><par n="tīr/s__adj_sint"/></e>
     <e lm="strukturāls"><p><l>visstrukturāl</l><r>strukturāl</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="sākotnējs"><i>sākotnēj</i><par n="ārēj/s__adj"/></e>
@@ -5678,8 +5867,12 @@
     <e lm="telpisks"><p><l>vistelpisk</l><r>telpisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="tematisks"><i>tematisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="tematisks"><p><l>vistematisk</l><r>tematisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="teorētisks"><i>teorētisk</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="teorētisks"><p><l>visteorētisk</l><r>teorētisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="teritoriāls"><i>teritoriāl</i><par n="tīr/s__adj_sint"/></e>
     <e lm="teritoriāls"><p><l>visteritoriāl</l><r>teritoriāl</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="termisks"><i>termisk</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="termisks"><p><l>vistermisk</l><r>termisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="tiesīgs"><i>tiesīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="tiesīgs"><p><l>vistiesīg</l><r>tiesīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="turpmāks"><i>turpmāk</i><par n="fiskāl/s__adj"/></e>
@@ -5690,21 +5883,29 @@
     <e lm="tūlītējs"><i>tūlītēj</i><par n="ārēj/s__adj"/></e>
     <e lm="universāls"><i>universāl</i><par n="tīr/s__adj_sint"/></e>
     <e lm="universāls"><p><l>visuniversāl</l><r>universāl</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="uzņēmīgs"><i>uzņēmīg</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="uzņēmīgs"><p><l>visuzņēmīg</l><r>uzņēmīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="valstspiederīgs"><i>valstspiederīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="valstspiederīgs"><p><l>visvalstspiederīg</l><r>valstspiederīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="veiksmīgs"><i>veiksmīg</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="veiksmīgs"><p><l>visveiksmīg</l><r>veiksmīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="veterinārs"><i>veterinār</i><par n="tīr/s__adj_sint"/></e>
     <e lm="veterinārs"><p><l>visveterinār</l><r>veterinār</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="vidējs"><i>vidēj</i><par n="ārēj/s__adj"/></e>
     <e lm="viegls"><i>viegl</i><par n="tīr/s__adj_sint"/></e>
     <e lm="viegls"><p><l>visviegl</l><r>viegl</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="vienbalsīgs"><i>vienbalsīg</i><par n="fiskāl/s__adj"/></e>
     <e lm="vienlaicīgs"><i>vienlaicīg</i><par n="fiskāl/s__adj"/></e>
     <e lm="vienmērīgs"><i>vienmērīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="vienmērīgs"><p><l>visvienmērīg</l><r>vienmērīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="vienprātīgs"><i>vienprātīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="vienprātīgs"><p><l>visvienprātīg</l><r>vienprātīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="vienpusējs"><i>vienpusēj</i><par n="ārēj/s__adj"/></e>
     <e lm="vienreizējs"><i>vienreizēj</i><par n="ārēj/s__adj"/></e>
     <e lm="vienīgs"><i>vienīg</i><par n="fiskāl/s__adj"/></e>
     <e lm="vietējs"><i>vietēj</i><par n="ārēj/s__adj"/></e>
+    <e lm="virsmaktīvs"><i>virsmaktīv</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="virsmaktīvs"><p><l>visvirsmaktīv</l><r>virsmaktīv</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="visaptverošs"><i>visaptveroš</i><par n="fiskāl/s__adj"/></e>
     <e lm="vispārējs"><i>vispārēj</i><par n="ārēj/s__adj"/></e>
     <e lm="vēžveidīgs"><i>vēžveidīg</i><par n="fiskāl/s__adj"/></e>
@@ -5715,16 +5916,26 @@
     <e lm="ārējs"><i>ārēj</i><par n="ārēj/s__adj"/></e>
     <e lm="ātrs"><i>ātr</i><par n="tīr/s__adj_sint"/></e>
     <e lm="ātrs"><p><l>visātr</l><r>ātr</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="ģenerāls"><i>ģenerāl</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="ģenerāls"><p><l>visģenerāl</l><r>ģenerāl</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="ģenētisks"><i>ģenētisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="ģenētisks"><p><l>visģenētisk</l><r>ģenētisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="ģeogrāfisks"><i>ģeogrāfisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="ģeogrāfisks"><p><l>visģeogrāfisk</l><r>ģeogrāfisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="īpatnējs"><i>īpatnēj</i><par n="īpatnēj/s__adj_sint"/></e>
+    <e lm="īpatnējs"><p><l>visīpatnēj</l><r>īpatnēj</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="īslaicīgs"><i>īslaicīg</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="īslaicīgs"><p><l>visīslaicīg</l><r>īslaicīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="ķīmisks"><i>ķīmisk</i><par n="tīr/s__adj_sint"/></e>
     <e lm="ķīmisks"><p><l>visķīmisk</l><r>ķīmisk</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="ļaunprātīgs"><i>ļaunprātīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="ļaunprātīgs"><p><l>visļaunprātīg</l><r>ļaunprātīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="šķidrs"><i>šķidr</i><par n="tīr/s__adj_sint"/></e>
     <e lm="šķidrs"><p><l>visšķidr</l><r>šķidr</r></p><par n="tīr/s__adj_sint_sup"/></e>
+
+
+
+
 
     <e lm="abpusējs"><i>abpusēj</i><par n="tīr/s__adj_sint"/></e>
     <e lm="abpusējs"><p><l>visabpusēj</l><r>abpusēj</r></p><par n="tīr/s__adj_sint_sup"/></e>
@@ -7619,3 +7830,4 @@
   </section>
 
 </dictionary>
+
