@@ -23,6 +23,7 @@
     <sdef n="iv"       c="Intransitive"/>
     <sdef n="TD"       c="Transitivity unknown"/>
 
+    <sdef n="acr"      c="Acronym"/>
     <sdef n="rel"      c="Relative"/>
     <sdef n="pers"     c="Personal"/>
     <sdef n="al"       c="Other"/>
@@ -2451,11 +2452,19 @@
     </pardef>
 
     <pardef n="Boeing__np">
-      <e><p><l></l><r><s n="np"/><s n="al"/><s n="m"/><s n="indecl"/></r></p></e>
+      <e><p><l></l><r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/><s n="indecl"/></r></p></e>
+    </pardef>
+
+    <pardef n="EP__np">
+      <e><p><l></l><r><s n="np"/><s n="acr"/><s n="m"/><s n="sg"/><s n="indecl"/></r></p></e>
+    </pardef>
+
+    <pardef n="EK__np">
+      <e><p><l></l><r><s n="np"/><s n="acr"/><s n="f"/><s n="sg"/><s n="indecl"/></r></p></e>
     </pardef>
 
     <pardef n="Hugo__np">
-      <e><p><l></l><r><s n="np"/><s n="ant"/><s n="m"/><s n="indecl"/></r></p></e>
+      <e><p><l></l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/><s n="indecl"/></r></p></e>
     </pardef>
 
     <pardef n="Jā/nis__np">
@@ -5347,6 +5356,16 @@
     <e lm="Austra"><i>Austr</i><par n="Rit/a__np"/></e>
     <e lm="Aigija"><i>Aigij</i><par n="Rit/a__np"/></e>
     <e lm="Rita"><i>Rit</i><par n="Rit/a__np"/></e>
+
+    <e lm="EK"><i>EK</i><par n="EK__np"/></e>
+    <e lm="EKK"><i>EKK</i><par n="EK__np"/></e>
+    <e lm="EEK"><i>EEK</i><par n="EK__np"/></e>
+    <e lm="EESK"><i>EESK</i><par n="EK__np"/></e>
+    <e lm="ECB"><i>ECB</i><par n="EK__np"/></e>
+    <e lm="EIB"><i>EIB</i><par n="EK__np"/></e>
+    <e lm="EEZ"><i>EEZ</i><par n="EK__np"/></e>
+    <e lm="ES"><i>ES</i><par n="EK__np"/></e>
+    <e lm="EP"><i>EP</i><par n="EP__np"/></e>
 
     <e lm="Boeing"><i>Boeing</i><par n="Boeing__np"/></e>
     <e lm="Ford"><i>Ford</i><par n="Boeing__np"/></e>
