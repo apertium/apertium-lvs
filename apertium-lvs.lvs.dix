@@ -3207,7 +3207,7 @@
     </pardef>
  
 
-    <pardef n="d/ot__vblex">
+    <pardef n="d/ot__vblex" c="irreg. (tv)">
       <e>       <p><l>ot</l>         <r>ot<s n="vblex"/><s n="tv"/><s n="inf"/></r></p></e>
       <e>       <p><l>ejot</l>       <r>ot<s n="vblex"/><s n="tv"/><s n="pprs"/><s n="actv"/><s n="adv"/></r></p></e>
       <e>       <p><l>ejam</l>       <r>ot<s n="vblex"/><s n="tv"/><s n="pprs"/><s n="ind"/></r></p></e>
@@ -3243,7 +3243,7 @@
  
 
  
-    <pardef n="/iet__vblex">
+    <pardef n="/iet__vblex" c="irreg. (iv)">
       <e>       <p><l>iet</l>         <r>iet<s n="vblex"/><s n="iv"/><s n="inf"/></r></p></e>
       <e>       <p><l>ejot</l>       <r>iet<s n="vblex"/><s n="iv"/><s n="pprs"/><s n="actv"/><s n="adv"/></r></p></e>
       <e>       <p><l>ejam</l>       <r>iet<s n="vblex"/><s n="iv"/><s n="pprs"/><s n="ind"/></r></p></e>
@@ -3279,7 +3279,7 @@
  
 
  
-    <pardef n="lido/t__vblex">
+    <pardef n="lido/t__vblex" c="II (iv) -t">
       <e>       <p><l>t</l>         <r>t<s n="vblex"/><s n="iv"/><s n="inf"/></r></p></e>
       <e>       <p><l>jot</l>       <r>t<s n="vblex"/><s n="iv"/><s n="pprs"/><s n="actv"/><s n="adv"/></r></p></e>
       <e>       <p><l>jam</l>       <r>t<s n="vblex"/><s n="iv"/><s n="pprs"/><s n="ind"/></r></p></e>
@@ -3313,7 +3313,7 @@
       <e>       <p><l>jiet</l>      <r>t<s n="vblex"/><s n="iv"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
  
-    <pardef n="apvieno/t__vblex">
+    <pardef n="apvieno/t__vblex" c="II (tv) -t">
       <e>       <p><l>t</l>         <r>t<s n="vblex"/><s n="tv"/><s n="inf"/></r></p></e>
       <e>       <p><l>jot</l>       <r>t<s n="vblex"/><s n="tv"/><s n="pprs"/><s n="actv"/><s n="adv"/></r></p></e>
       <e>       <p><l>jam</l>       <r>t<s n="vblex"/><s n="tv"/><s n="pprs"/><s n="ind"/></r></p></e>
@@ -3431,30 +3431,7 @@
       <e><p><l>at</l><r>ēt<s n="vbmod"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><p><l></l><r>ēt<s n="vbmod"/><s n="pres"/><s n="p3"/><s n="sp"/></r></p></e>
     </pardef>
-    <pardef n="mīl/ēt__vblex">
-      <e><p><l>ēšu</l><r>ēt<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p><l>ēsim</l><r>ēt<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p><l>ēsi</l><r>ēt<s n="vblex"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>ēsiet</l><r>ēt<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e r="LR"><p><l>ēsit</l><r>ēt<s n="vblex"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>ēs</l><r>ēt<s n="vblex"/><s n="fut"/><s n="p3"/><s n="sp"/></r></p></e>
-      <e><p><l>ēt</l><r>ēt<s n="vblex"/><s n="inf"/></r></p></e>
-      <e><p><l>ēju</l><r>ēt<s n="vblex"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p><l>ējām</l><r>ēt<s n="vblex"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p><l>ēji</l><r>ēt<s n="vblex"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>ējāt</l><r>ēt<s n="vblex"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>ēja</l><r>ēt<s n="vblex"/><s n="past"/><s n="p3"/><s n="sp"/></r></p></e>
-      <e><p><l>u</l><r>ēt<s n="vblex"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
-      <e><p><l>am</l><r>ēt<s n="vblex"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p><l>i</l><r>ēt<s n="vblex"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>at</l><r>ēt<s n="vblex"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l></l><r>ēt<s n="vblex"/><s n="pres"/><s n="p3"/><s n="sp"/></r></p></e>
-      <e><p><l>i</l><r>ēt<s n="vblex"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
-      <e><p><l>ēsim</l><r>ēt<s n="vblex"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
-      <e><p><l>iet</l><r>ēt<s n="vblex"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
-      <e><p><l>ēt</l><r>ēt<s n="vblex"/></r></p><par n="lēkt/s__pp_psv"/></e>
-      <e><p><l>ēj</l><r>ēt<s n="vblex"/></r></p><par n="cēl/is__pp_act"/></e>
-    </pardef>
+
     <pardef n="t/ikt__vblex">
       <e><p><l>ikšu</l><r>ikt<s n="vblex"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
       <e><p><l>iksim</l><r>ikt<s n="vblex"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
@@ -7808,15 +7785,15 @@
     <e lm="varēt"><par n="ne"/><i>var</i><par n="var/ēt__vbmod"/></e>
 
     <e lm="atrast"><par n="ne"/><i>atr</i><par n="atr/ast__vblex"/></e>
-    <e lm="mīlēt"><par n="ne"/><i>mīl</i><par n="mīl/ēt__vblex"/></e>
     <e lm="tikt"><par n="ne"/><i>t</i><par n="t/ikt__vblex"/></e>
 
     <e lm="dzirdēt"><par n="ne"/><i>dzird</i><par n="redz/ēt__vblex"/></e>
+    <e lm="mīlēt"><par n="ne"/><i>mīl</i><par n="redz/ēt__vblex"/></e>
     <e lm="redzēt"><par n="ne"/><i>redz</i><par n="redz/ēt__vblex"/></e>
     <e lm="zināt"><par n="ne"/><i>zin</i><par n="zin/āt__vblex"/></e>
     <e lm="gribēt"><par n="ne"/><i>grib</i><par n="redz/ēt__vblex"/></e>
-    <e lm="iet">        <par n="ne"/><i></i><par n="/iet__vblex"/></e>
-    <e lm="dot">        <par n="ne"/><i>d</i><par n="d/ot__vblex"/></e>
+    <e lm="iet"><par n="ne"/><i></i><par n="/iet__vblex"/></e>
+    <e lm="dot"><par n="ne"/><i>d</i><par n="d/ot__vblex"/></e>
 
     <e lm="apvienot">        <par n="ne"/><i>apvieno</i><par n="apvieno/t__vblex"/></e>
     <e lm="dabūt">           <par n="ne"/><i>dabū</i><par n="apvieno/t__vblex"/></e>
