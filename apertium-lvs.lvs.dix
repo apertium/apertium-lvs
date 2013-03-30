@@ -202,55 +202,55 @@
     <!-- SECTION: Pronouns -->
   
     <pardef n="prpers__prn">
-      <e><p><l>es</l><r>es<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="mf"/><s n="nom"/></r></p></e>
-      <e><p><l>manis</l><r>es<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="mf"/><s n="gen"/></r></p></e>
-      <e><p><l>man</l><r>es<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="mf"/><s n="dat"/></r></p></e>
-      <e r="LR"><p><l>manīm</l><r>es<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="mf"/><s n="dat"/></r></p></e>
-      <e><p><l>mani</l><r>es<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="mf"/><s n="acc"/></r></p></e>
-      <e><p><l>manī</l><r>es<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/><s n="mf"/><s n="loc"/></r></p></e>
+      <e><p><l>es</l><r>es<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>manis</l><r>es<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>man</l><r>es<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e r="LR"><p><l>manīm</l><r>es<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p><l>mani</l><r>es<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>manī</l><r>es<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/><s n="loc"/></r></p></e>
 
-      <e><p><l>tu</l><r>tu<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="nom"/></r></p></e>
-      <e><p><l>tevis</l><r>tu<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="gen"/></r></p></e>
-      <e><p><l>tev</l><r>tu<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="dat"/></r></p></e>
-      <e r="LR"><p><l>tevīm</l><r>tu<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="dat"/></r></p></e>
-      <e><p><l>tevi</l><r>tu<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="acc"/></r></p></e>
-      <e><p><l>tevī</l><r>tu<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/><s n="mf"/><s n="loc"/></r></p></e>
+      <e><p><l>tu</l><r>tu<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>tevis</l><r>tu<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>tev</l><r>tu<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e r="LR"><p><l>tevīm</l><r>tu<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p><l>tevi</l><r>tu<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>tevī</l><r>tu<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="loc"/></r></p></e>
 
-      <e><p><l>viņš</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="m"/><s n="nom"/></r></p></e>
-      <e><p><l>viņa</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="m"/><s n="gen"/></r></p></e>
-      <e><p><l>viņam</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="m"/><s n="dat"/></r></p></e>
-      <e><p><l>viņu</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="m"/><s n="acc"/></r></p></e>
-      <e><p><l>viņā</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="m"/><s n="loc"/></r></p></e>
+      <e><p><l>viņš</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>viņa</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>viņam</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p><l>viņu</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>viņā</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/><s n="loc"/></r></p></e>
 
-      <e><p><l>viņa</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/><s n="nom"/></r></p></e>
-      <e><p><l>viņas</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/><s n="gen"/></r></p></e>
-      <e><p><l>viņai</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/><s n="dat"/></r></p></e>
-      <e><p><l>viņu</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/><s n="acc"/></r></p></e>
-      <e><p><l>viņā</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/><s n="f"/><s n="loc"/></r></p></e>
+      <e><p><l>viņa</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>viņas</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>viņai</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p><l>viņu</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>viņā</l><r>viņš<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
 
-      <e><p><l>mēs</l><r>mēs<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="mf"/><s n="nom"/></r></p></e>
-      <e><p><l>mūsu</l><r>mēs<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="mf"/><s n="gen"/></r></p></e>
-      <e><p><l>mums</l><r>mēs<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="mf"/><s n="dat"/></r></p></e>
-      <e><p><l>mūs</l><r>mēs<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="mf"/><s n="acc"/></r></p></e>
-      <e><p><l>mūsos</l><r>mēs<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/><s n="mf"/><s n="loc"/></r></p></e>
+      <e><p><l>mēs</l><r>mēs<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>mūsu</l><r>mēs<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>mums</l><r>mēs<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>mūs</l><r>mēs<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>mūsos</l><r>mēs<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
 
-      <e><p><l>jūs</l><r>jūs<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="mf"/><s n="nom"/></r></p></e>
-      <e><p><l>jūsu</l><r>jūs<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="mf"/><s n="gen"/></r></p></e>
-      <e><p><l>jums</l><r>jūs<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="mf"/><s n="dat"/></r></p></e>
-      <e><p><l>jūs</l><r>jūs<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="mf"/><s n="acc"/></r></p></e>
-      <e><p><l>jūsos</l><r>jūs<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/><s n="mf"/><s n="loc"/></r></p></e>
+      <e><p><l>jūs</l><r>jūs<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>jūsu</l><r>jūs<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>jums</l><r>jūs<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>jūs</l><r>jūs<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>jūsos</l><r>jūs<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
 
-      <e><p><l>viņi</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="m"/><s n="nom"/></r></p></e>
-      <e><p><l>viņu</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="m"/><s n="gen"/></r></p></e>
-      <e><p><l>viņiem</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="m"/><s n="dat"/></r></p></e>
-      <e><p><l>viņus</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="m"/><s n="acc"/></r></p></e>
-      <e><p><l>viņos</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="m"/><s n="loc"/></r></p></e>
+      <e><p><l>viņi</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>viņu</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>viņiem</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>viņus</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>viņos</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="pl"/><s n="loc"/></r></p></e>
 
-      <e><p><l>viņas</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="f"/><s n="nom"/></r></p></e>
-      <e><p><l>viņu</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="f"/><s n="gen"/></r></p></e>
-      <e><p><l>viņām</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="f"/><s n="dat"/></r></p></e>
-      <e><p><l>viņas</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="f"/><s n="acc"/></r></p></e>
-      <e><p><l>viņām</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/><s n="f"/><s n="loc"/></r></p></e>
+      <e><p><l>viņas</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>viņu</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>viņām</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>viņas</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>viņām</l><r>viņi<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
 
     <pardef n="refprn__prn">
@@ -294,26 +294,26 @@
 
 
     <pardef n="emphprn__prn">
-      <e><p><l>pats</l><r>pats<s n="prn"/><s n="emph"/><s n="sg"/><s n="m"/><s n="nom"/></r></p></e>
-      <e><p><l>paša</l><r>pats<s n="prn"/><s n="emph"/><s n="sg"/><s n="m"/><s n="gen"/></r></p></e>
-      <e><p><l>pašam</l><r>pats<s n="prn"/><s n="emph"/><s n="sg"/><s n="m"/><s n="dat"/></r></p></e>
-      <e><p><l>pašu</l><r>pats<s n="prn"/><s n="emph"/><s n="sg"/><s n="m"/><s n="acc"/></r></p></e>
-      <e><p><l>pašā</l><r>pats<s n="prn"/><s n="emph"/><s n="sg"/><s n="m"/><s n="loc"/></r></p></e>
-      <e><p><l>paši</l><r>pats<s n="prn"/><s n="emph"/><s n="pl"/><s n="m"/><s n="nom"/></r></p></e>
-      <e><p><l>pašu</l><r>pats<s n="prn"/><s n="emph"/><s n="pl"/><s n="m"/><s n="gen"/></r></p></e>
-      <e><p><l>pašiem</l><r>pats<s n="prn"/><s n="emph"/><s n="pl"/><s n="m"/><s n="dat"/></r></p></e>
-      <e><p><l>pašus</l><r>pats<s n="prn"/><s n="emph"/><s n="pl"/><s n="m"/><s n="acc"/></r></p></e>
-      <e><p><l>pašos</l><r>pats<s n="prn"/><s n="emph"/><s n="pl"/><s n="m"/><s n="loc"/></r></p></e>
-      <e><p><l>pati</l><r>pats<s n="prn"/><s n="emph"/><s n="sg"/><s n="f"/><s n="nom"/></r></p></e>
-      <e><p><l>pašas</l><r>pats<s n="prn"/><s n="emph"/><s n="sg"/><s n="f"/><s n="gen"/></r></p></e>
-      <e><p><l>pašai</l><r>pats<s n="prn"/><s n="emph"/><s n="sg"/><s n="f"/><s n="dat"/></r></p></e>
-      <e><p><l>pašu</l><r>pats<s n="prn"/><s n="emph"/><s n="sg"/><s n="f"/><s n="acc"/></r></p></e>
-      <e><p><l>pašā</l><r>pats<s n="prn"/><s n="emph"/><s n="sg"/><s n="f"/><s n="loc"/></r></p></e>
-      <e><p><l>pašas</l><r>pats<s n="prn"/><s n="emph"/><s n="pl"/><s n="f"/><s n="nom"/></r></p></e>
-      <e><p><l>pašu</l><r>pats<s n="prn"/><s n="emph"/><s n="pl"/><s n="f"/><s n="gen"/></r></p></e>
-      <e><p><l>pašām</l><r>pats<s n="prn"/><s n="emph"/><s n="pl"/><s n="f"/><s n="dat"/></r></p></e>
-      <e><p><l>pašas</l><r>pats<s n="prn"/><s n="emph"/><s n="pl"/><s n="f"/><s n="acc"/></r></p></e>
-      <e><p><l>pašās</l><r>pats<s n="prn"/><s n="emph"/><s n="pl"/><s n="f"/><s n="loc"/></r></p></e>
+      <e><p><l>pats</l><r>pats<s n="prn"/><s n="emph"/><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>paša</l><r>pats<s n="prn"/><s n="emph"/><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>pašam</l><r>pats<s n="prn"/><s n="emph"/><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p><l>pašu</l><r>pats<s n="prn"/><s n="emph"/><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>pašā</l><r>pats<s n="prn"/><s n="emph"/><s n="m"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p><l>paši</l><r>pats<s n="prn"/><s n="emph"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>pašu</l><r>pats<s n="prn"/><s n="emph"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>pašiem</l><r>pats<s n="prn"/><s n="emph"/><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>pašus</l><r>pats<s n="prn"/><s n="emph"/><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>pašos</l><r>pats<s n="prn"/><s n="emph"/><s n="m"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e><p><l>pati</l><r>pats<s n="prn"/><s n="emph"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>pašas</l><r>pats<s n="prn"/><s n="emph"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+      <e><p><l>pašai</l><r>pats<s n="prn"/><s n="emph"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+      <e><p><l>pašu</l><r>pats<s n="prn"/><s n="emph"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+      <e><p><l>pašā</l><r>pats<s n="prn"/><s n="emph"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+      <e><p><l>pašas</l><r>pats<s n="prn"/><s n="emph"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>pašu</l><r>pats<s n="prn"/><s n="emph"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>pašām</l><r>pats<s n="prn"/><s n="emph"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>pašas</l><r>pats<s n="prn"/><s n="emph"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>pašās</l><r>pats<s n="prn"/><s n="emph"/><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
 
     <pardef n="kād/s__prn_itg">
@@ -614,7 +614,7 @@
       <e><p><l>to</l><r>tas<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
       <e><p><l>tanī</l><r>tas<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/><s n="loc"/></r></p></e>
       <e><p><l>tajā</l><r>tas<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
-      <e r="LR"><p><l>tai</l><r>tas<s n="det"/><s n="dem"/><s n="sg"/><s n="mf"/><s n="loc"/></r></p></e>
+      <e r="LR"><p><l>tai</l><r>tas<s n="det"/><s n="dem"/><s n="mf"/><s n="sg"/><s n="loc"/></r></p></e>
       <e><p><l>tie</l><r>tas<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>tās</l><r>tas<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>to</l><r>tas<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -625,7 +625,7 @@
       <e><p><l>tās</l><r>tas<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
       <e r="LR"><p><l>tais</l><r>tas<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="loc"/></r></p></e>
       <e><p><l>tajās</l><r>tas<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
-      <e r="LR"><p><l>tanīs</l><r>tas<s n="det"/><s n="dem"/><s n="pl"/><s n="mf"/><s n="loc"/></r></p></e>
+      <e r="LR"><p><l>tanīs</l><r>tas<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
       <e><p><l>tajos</l><r>tas<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
 
@@ -642,7 +642,7 @@
       <e><p><l>šo</l><r>šis<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
       <e><p><l>šinī</l><r>šis<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/><s n="loc"/></r></p></e>
       <e><p><l>šajā</l><r>šis<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
-      <e r="LR"><p><l>šai</l><r>šis<s n="det"/><s n="dem"/><s n="sg"/><s n="mf"/><s n="loc"/></r></p></e>
+      <e r="LR"><p><l>šai</l><r>šis<s n="det"/><s n="dem"/><s n="mf"/><s n="sg"/><s n="loc"/></r></p></e>
       <e><p><l>šie</l><r>šis<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>šīs</l><r>šis<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>šo</l><r>šis<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
@@ -653,7 +653,7 @@
       <e><p><l>šīs</l><r>šis<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
       <e r="LR"><p><l>šais</l><r>šis<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="loc"/></r></p></e>
       <e><p><l>šajās</l><r>šis<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
-      <e r="LR"><p><l>šinīs</l><r>šis<s n="det"/><s n="dem"/><s n="pl"/><s n="mf"/><s n="loc"/></r></p></e>
+      <e r="LR"><p><l>šinīs</l><r>šis<s n="det"/><s n="dem"/><s n="mf"/><s n="pl"/><s n="loc"/></r></p></e>
       <e><p><l>šajos</l><r>šis<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/><s n="loc"/></r></p></e>
     </pardef>
 
@@ -3627,6 +3627,7 @@
     <e lm="jebkāds"><i>jebkād</i><par n="jebkād/s__prn_ind"/></e>
     <e lm="jebkas"><i>jebk</i><par n="jebk/as__prn_ind"/></e>
     <e lm="kas"><i>k</i><par n="jebk/as__prn_ind"/></e>
+    <e lm="kaut kas"><i>kaut<b/>k</i><par n="jebk/as__prn_ind"/></e>
     <e lm="kaut kāds"><i>kaut<b/>kād</i><par n="cit/s__prn"/></e>
     <e lm="viens otrs"><i>viens<b/>otr</i><par n="cit/s__prn"/></e>
 
@@ -9294,6 +9295,7 @@
 
     <e lm="tad"><i>tad</i><par n="ārā__adv"/></e> <!-- then -->
     <e lm="tur"><i>tur</i><par n="ārā__adv"/></e> 
+    <e lm="šodien"><i>šodien</i><par n="ārā__adv"/></e> 
     <e lm="nu"><i>nu</i><par n="ārā__adv"/></e> 
     <e lm="vakar"><i>vakar</i><par n="ārā__adv"/></e>  <!-- yesterday-->
     <e lm="nekad"><i>nekad</i><par n="ārā__adv"/></e>  <!--never -->
