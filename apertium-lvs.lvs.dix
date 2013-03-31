@@ -5979,7 +5979,7 @@
     <e lm="kontinents"><i>kontinent</i><par n="tip/s__n_m"/></e>
     <e lm="kontrole"><i>kontro</i><par n="mē/le__n_f"/></e>
     <e lm="koordināta"><i>koordināt</i><par n="koordināt/a__n_m"/></e>
-    <e lm="kopa"><i>kop</i><par n="al/a__n_f"/></e>
+    <!--<e lm="kopa"><i>kop</i><par n="al/a__n_f"/></e>-->
     <e lm="kopiena"><i>kopien</i><par n="al/a__n_f"/></e>
     <e lm="kopija"><i>kopij</i><par n="al/a__n_f"/></e>
     <e lm="kopums"><i>kopum</i><par n="tip/s__n_m"/></e>
@@ -7566,7 +7566,7 @@
     <e lm="zīmējums"><i>zīmējum</i><par n="tip/s__n_m"/></e>
     <e lm="ābols"><i>ābol</i><par n="tip/s__n_m"/></e>
     <e lm="ārpakalpojums"><i>ārpakalpojum</i><par n="tip/s__n_m"/></e>
-    <e lm="ārs"><i>ār</i><par n="tip/s__n_m"/></e>
+    <!--<e lm="ārs"><i>ār</i><par n="tip/s__n_m"/></e>-->
     <e lm="čuguns"><i>čugun</i><par n="tip/s__n_m"/></e>
     <e lm="ģenerators"><i>ģenerator</i><par n="tip/s__n_m"/></e>
     <e lm="ģenerāladvokāts"><i>ģenerāladvokāt</i><par n="tip/s__n_m"/></e>
