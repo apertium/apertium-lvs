@@ -3724,6 +3724,41 @@
       <e>       <p><l>jiet</l>      <r>t<s n="vblex"/><s n="iv"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
 
+    <pardef n="skat/īties__vblex" c="? (ref) -īties">
+      <e><p>          <l>īties</l><r>īties<s n="vblex"/><s n="ref"/><s n="inf"/></r></p></e>
+
+      <e><p>          <l>os</l><r>īties<s n="vblex"/><s n="ref"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>āmies</l><r>īties<s n="vblex"/><s n="ref"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ies</l><r>īties<s n="vblex"/><s n="ref"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>āties</l><r>īties<s n="vblex"/><s n="ref"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ās</l><r>īties<s n="vblex"/><s n="ref"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ās</l><r>īties<s n="vblex"/><s n="ref"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>ījos</l><r>īties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ījāmies</l><r>īties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ījies</l><r>īties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ījāties</l><r>īties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ījās</l><r>īties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ījās</l><r>īties<s n="vblex"/><s n="ref"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+
+
+      <e><p>          <l>īšos</l><r>īties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>īsimies</l><r>īties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>īsies</l><r>īties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>īsieties</l><r>īties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>īsities</l><r>īties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>īsies</l><r>īties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>īsies</l><r>īties<s n="vblex"/><s n="ref"/><s n="fut"/><s n="p3"/><s n="pl"/></r></p></e>
+
+
+
+      <e><p>          <l>ies</l><r>īties<s n="vblex"/><s n="ref"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ieties</l><r>īties<s n="vblex"/><s n="ref"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+
+
+    </pardef>
+
+
     <pardef n="spēlē/ties__vblex" c="? (ref) -ties">
       <e><p>          <l>ties</l><r>ties<s n="vblex"/><s n="ref"/><s n="inf"/></r></p></e>
 
@@ -9704,6 +9739,7 @@
     <e lm="tad"><i>tad</i><par n="ārā__adv"/></e> <!-- then -->
     <e lm="tur"><i>tur</i><par n="ārā__adv"/></e> 
     <e lm="protams"><i>protams</i><par n="ārā__adv"/></e> 
+    <e lm="droši vien"><i>droši<b/>vien</i><par n="ārā__adv"/></e> 
     <e lm="apkārt"><i>apkārt</i><par n="ārā__adv"/></e> 
     <e lm="iekšā"><i>iekšā</i><par n="ārā__adv"/></e> 
     <e lm="vienmēr"><i>vienmēr</i><par n="ārā__adv"/></e>  <!-- всегда -->
@@ -9780,6 +9816,13 @@
 
     <e lm="spēlēties"><par n="ne"/><i>spēlē</i><par n="spēlē/ties__vblex"/></e>
     <e lm="spēlēties"><p><l>jāspēlējas</l><r>spēlēties</r></p><par n="jāspēlējas/__vblex"/></e>
+
+    <e lm="skatīties"><par n="ne"/><i>skat</i><par n="skat/īties__vblex"/></e>
+    <e lm="skatīties"><p><l>jāskatās</l><r>skatīties</r></p><par n="jāspēlējas/__vblex"/></e>
+    <e lm="klausīties"><par n="ne"/><i>klaus</i><par n="skat/īties__vblex"/></e>
+    <e lm="klausīties"><p><l>jāklausās</l><r>klausīties</r></p><par n="jāspēlējas/__vblex"/></e>
+
+
 
     <e lm="skaitīt"><par n="ne"/><i>skait</i><par n="skait/īt__vblex"/></e>
     <e lm="iet"><par n="ne"/><i></i><par n="/iet__vblex"/></e>
