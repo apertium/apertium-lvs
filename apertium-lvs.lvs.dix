@@ -53,6 +53,7 @@
     <sdef n="pres"     c="Tagadne"/>
     <sdef n="past"     c="Pagātne"/>
     <sdef n="prs"      c="Subjunctive"/>
+    <sdef n="deb"      c="Debitive"/>
     <sdef n="fut"      c="Nākotne"/>
     <sdef n="imp"      c="Imperative"/>
 
@@ -3182,6 +3183,9 @@
       <e r="LR"><par n="ne"/><p><l>būsiet</l><r>būt<s n="vbser"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
       <e><par n="ne"/><p><l>būs</l><r>būt<s n="vbser"/><s n="fut"/><s n="p3"/><s n="pl"/></r></p></e>
 
+      <e><par n="ne"/><p><l>būtu</l><r>būt<s n="vbser"/><s n="prs"/></r></p></e>
+      <e><par n="ne"/><p><l>jābūt</l><r>būt<s n="vbser"/><s n="deb"/></r></p></e>
+
       <e><par n="ne"/><p><l>esi</l><r>būt<s n="vbser"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
       <e><par n="ne"/><p><l>esiet</l><r>būt<s n="vbser"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
@@ -3222,7 +3226,10 @@
       <e>       <p><l>iet</l>      <r>īt<s n="vblex"/><s n="iv"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
  
- 
+    <pardef n="jāzin/a__vblex"> 
+      <e>       <p><l></l>          <r>āt<s n="vblex"/><s n="tv"/><s n="deb"/></r></p></e>
+    </pardef>
+
     <pardef n="zin/āt__vblex" c="III (tv) -āt"> 
       <e>       <p><l>āt</l>         <r>āt<s n="vblex"/><s n="tv"/><s n="inf"/></r></p></e>
       <e>       <p><l>ajāt</l>       <r>āt<s n="vblex"/><s n="tv"/><s n="pprs"/><s n="actv"/><s n="adv"/></r></p></e>
@@ -3259,7 +3266,9 @@
       <e>       <p><l>iet</l>      <r>āt<s n="vblex"/><s n="tv"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
  
-
+    <pardef n="jāredz/__vblex"> 
+      <e>       <p><l></l>          <r>ēt<s n="vblex"/><s n="tv"/><s n="deb"/></r></p></e>
+    </pardef>
   
     <pardef n="redz/ēt__vblex" c="III (tv) -ēt"> 
       <e>       <p><l>ēt</l>         <r>ēt<s n="vblex"/><s n="tv"/><s n="inf"/></r></p></e>
@@ -7481,6 +7490,8 @@
     <e lm="neliels"><p><l>visneliel</l><r>neliel</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="nelikumīgs"><i>nelikumīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="nelikumīgs"><p><l>visnelikumīg</l><r>nelikumīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
+    <e lm="uzmanīgs"><i>uzmanīg</i><par n="tīr/s__adj_sint"/></e>
+    <e lm="uzmanīgs"><p><l>visuzmanīg</l><r>uzmanīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="nemainīgs"><i>nemainīg</i><par n="tīr/s__adj_sint"/></e>
     <e lm="nemainīgs"><p><l>visnemainīg</l><r>nemainīg</r></p><par n="tīr/s__adj_sint_sup"/></e>
     <e lm="nemateriāls"><i>nemateriāl</i><par n="tīr/s__adj_sint"/></e>
@@ -9401,10 +9412,17 @@
     <e lm="tikt"><par n="ne"/><i>t</i><par n="t/ikt__vblex"/></e>
 
     <e lm="dzirdēt"><par n="ne"/><i>dzird</i><par n="redz/ēt__vblex"/></e>
+    <e lm="dzirdēt"><p><l>jādzird</l><r>dzird</r></p><par n="jāredz/__vblex"/></e>
     <e lm="mīlēt"><par n="ne"/><i>mīl</i><par n="redz/ēt__vblex"/></e>
+    <e lm="mīlēt"><p><l>jāmīl</l><r>mīl</r></p><par n="jāredz/__vblex"/></e>
     <e lm="redzēt"><par n="ne"/><i>redz</i><par n="redz/ēt__vblex"/></e>
-    <e lm="zināt"><par n="ne"/><i>zin</i><par n="zin/āt__vblex"/></e>
+    <e lm="redzēt"><p><l>jāredz</l><r>redz</r></p><par n="jāredz/__vblex"/></e>
     <e lm="gribēt"><par n="ne"/><i>grib</i><par n="redz/ēt__vblex"/></e>
+    <e lm="gribēt"><p><l>jāgrib</l><r>grib</r></p><par n="jāredz/__vblex"/></e>
+
+    <e lm="zināt"><par n="ne"/><i>zin</i><par n="zin/āt__vblex"/></e>
+    <e lm="zināt"><p><l>jāzina</l><r>zin</r></p><par n="jāzin/a__vblex"/></e>
+
     <e lm="skaitīt"><par n="ne"/><i>skait</i><par n="skait/īt__vblex"/></e>
     <e lm="iet"><par n="ne"/><i></i><par n="/iet__vblex"/></e>
     <e lm="dot"><par n="ne"/><i>d</i><par n="d/ot__vblex"/></e>
