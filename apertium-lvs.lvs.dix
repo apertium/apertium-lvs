@@ -1890,6 +1890,7 @@
       <e><p><l>tes</l><r>te<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
     </pardef>
     <pardef n="fā/ze__n_f">
+      <e><p><l>ze</l><r>ze<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>zes</l><r>ze<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>zei</l><r>ze<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
       <e><p><l>zi</l><r>ze<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -1897,7 +1898,7 @@
       <e><p><l>zi</l><r>ze<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
       <e><p><l>ze</l><r>ze<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
       <e><p><l>zes</l><r>ze<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r></p></e>
-      <e><p><l>ze</l><r>ze<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+      <e><p><l>zes</l><r>ze<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
       <e><p><l>žu</l><r>ze<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p><l>zēm</l><r>ze<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
       <e><p><l>zes</l><r>ze<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -1905,7 +1906,6 @@
       <e><p><l>zēm</l><r>ze<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
       <e><p><l>zes</l><r>ze<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
       <e><p><l>zēm</l><r>ze<s n="n"/><s n="f"/><s n="pl"/><s n="abl"/></r></p></e>
-      <e><p><l>zes</l><r>ze<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
     </pardef>
 
     <pardef n="mut/e__n">
@@ -3619,7 +3619,7 @@
       <e>       <p><l>u</l>        <r>īt<s n="vblex"/><s n="tv"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
       <e>       <p><l>i</l>          <r>īt<s n="vblex"/><s n="tv"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>a</l>          <r>īt<s n="vblex"/><s n="tv"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-      <e>       <p><l>am</l>       <r>īt<s n="vblex"/><s n="tv"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e>       <p><l>ām</l>       <r>īt<s n="vblex"/><s n="tv"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
       <e>       <p><l>āt</l>       <r>īt<s n="vblex"/><s n="tv"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
       <e>       <p><l>a</l>          <r>īt<s n="vblex"/><s n="tv"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
     
@@ -4074,6 +4074,45 @@
       <e>       <p><l></l>          <r>t<s n="vblex"/><s n="tv"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
       <e>       <p><l>jiet</l>      <r>t<s n="vblex"/><s n="tv"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
     </pardef>
+
+    <pardef n="vīd/ēt__vblex">
+      <e><p>          <l>ēt</l><r>ēt<s n="vblex"/><s n="TD"/><s n="inf"/></r></p></e>
+ 
+      <e>       <p><l>j</l>         <r>ēt<s n="vblex"/><s n="TD"/></r></p><par n="skrien/ošs__pprs_act"/></e>
+      <e>       <p><l>j</l>         <r>ēt<s n="vblex"/><s n="TD"/></r></p><par n="cēl/is__pp_act"/></e>
+      <e>       <p><l></l>          <r>ēt<s n="vblex"/><s n="TD"/></r></p><par n="mez/dams__pprs_act"/></e>
+      <e>       <p><l>jam</l>       <r>ēt<s n="vblex"/><s n="TD"/></r></p><par n="zogam/s__pprs_psv"/></e>
+      <e>       <p><l>t</l>         <r>ēt<s n="vblex"/><s n="TD"/></r></p><par n="lēkt/s__pp_psv"/></e>
+    
+
+      <e><p>          <l>u</l><r>ēt<s n="vblex"/><s n="TD"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>am</l><r>ēt<s n="vblex"/><s n="TD"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>i</l><r>ēt<s n="vblex"/><s n="TD"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>at</l><r>ēt<s n="vblex"/><s n="TD"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l/><r>ēt<s n="vblex"/><s n="TD"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l/><r>ēt<s n="vblex"/><s n="TD"/><s n="pres"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>ēju</l><r>ēt<s n="vblex"/><s n="TD"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ējām</l><r>ēt<s n="vblex"/><s n="TD"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ēji</l><r>ēt<s n="vblex"/><s n="TD"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ējāt</l><r>ēt<s n="vblex"/><s n="TD"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ēja</l><r>ēt<s n="vblex"/><s n="TD"/><s n="past"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ēja</l><r>ēt<s n="vblex"/><s n="TD"/><s n="past"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>ēšu</l><r>ēt<s n="vblex"/><s n="TD"/><s n="fut"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ēsim</l><r>ēt<s n="vblex"/><s n="TD"/><s n="fut"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ēsi</l><r>ēt<s n="vblex"/><s n="TD"/><s n="fut"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ēsit</l><r>ēt<s n="vblex"/><s n="TD"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ēsiet</l><r>ēt<s n="vblex"/><s n="TD"/><s n="fut"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p>          <l>ēs</l><r>ēt<s n="vblex"/><s n="TD"/><s n="fut"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p>          <l>ēs</l><r>ēt<s n="vblex"/><s n="TD"/><s n="fut"/><s n="p3"/><s n="pl"/></r></p></e>
+
+      <e><p>          <l>ētu</l><r>ēt<s n="vblex"/><s n="TD"/><s n="prs"/></r></p></e>
+
+      <e><p>          <l>i</l><r>ēt<s n="vblex"/><s n="TD"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p>          <l>iet</l><r>ēt<s n="vblex"/><s n="TD"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+    </pardef>
+
     
     <pardef n="vīlē/t__vblex">
       <e>       <p><l>t</l>         <r>t<s n="vblex"/><s n="TD"/><s n="inf"/></r></p></e>
@@ -4226,6 +4265,7 @@
     <e lm="cik"><i>cik</i><par n="lai__cnjsub"/></e>
 
     <e lm="turklāt"><i>turklāt</i><par n="kamēr__cnjadv"/></e>
+    <e lm="tāpēc"><i>tāpēc</i><par n="kamēr__cnjadv"/></e>
     <e lm="kamēr"><i>kamēr</i><par n="kamēr__cnjadv"/></e>
     <e lm="tā kā"><i>tā<b/>kā</i><par n="kamēr__cnjadv"/></e>
     <e lm="tiklīdz"><i>tiklīdz</i><par n="kamēr__cnjadv"/></e>
@@ -5402,6 +5442,7 @@
     <e lm="amats"><i>amat</i><par n="tip/s__n_m"/></e>
     <e lm="amerikānis"><i>amerikā</i><par n="dā/nis__n_m"/></e>
     <e lm="analīze"><i>analī</i><par n="fā/ze__n_f"/></e>
+    <e lm="prognoze"><i>progno</i><par n="fā/ze__n_f"/></e>
     <e lm="anglis"><i>ang</i><par n="po/lis__n_m"/></e>
     <e lm="antena"><i>anten</i><par n="al/a__n_f"/></e>
     <e lm="aparāts"><i>aparāt</i><par n="tip/s__n_m"/></e>
@@ -10024,6 +10065,8 @@
     <e lm="tuvu"><p><l>vistuv</l><r>tuv</r></p><par n="tāl/u__adv_sint_sup"/></e>
     <e lm="cauri"><i>caur</i><par n="klus/i__adv"/></e>
     <e lm="cauri"><p><l>viscaur</l><r>caur</r></p><par n="klus/i__adv_sint_sup"/></e>
+    <e lm="īsti"><i>īst</i><par n="klus/i__adv"/></e>
+    <e lm="īsti"><p><l>visīst</l><r>īst</r></p><par n="klus/i__adv_sint_sup"/></e>
 
     <!-- SECTION: Verbs -->
 
@@ -10072,6 +10115,30 @@
     <e lm="ieēst"><par n="ne"/><i>ieē</i><par n="ieē/st__vblex"/></e>
     <e lm="ieēst"><p><l>jāieēd</l><r>ieēst</r></p><par n="jāredz/__vblex"/></e>
 
+    <e lm="novest"><par n="ne"/><i>nove</i><par n="ieē/st__vblex"/></e>
+    <e lm="novest"><p><l>jānoved</l><r>nove</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="aizvest"><par n="ne"/><i>aizve</i><par n="ieē/st__vblex"/></e>
+    <e lm="aizvest"><p><l>jāaizved</l><r>aizve</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="pārvest"><par n="ne"/><i>pārve</i><par n="ieē/st__vblex"/></e>
+    <e lm="pārvest"><p><l>jāpārved</l><r>pārve</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="vest"><par n="ne"/><i>ve</i><par n="ieē/st__vblex"/></e>
+    <e lm="vest"><p><l>jāved</l><r>ve</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="ievest"><par n="ne"/><i>ieve</i><par n="ieē/st__vblex"/></e>
+    <e lm="ievest"><p><l>jāieved</l><r>ieve</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="nenovest"><par n="ne"/><i>nenove</i><par n="ieē/st__vblex"/></e>
+    <e lm="nenovest"><p><l>jānenoved</l><r>nenove</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="nevest"><par n="ne"/><i>neve</i><par n="ieē/st__vblex"/></e>
+    <e lm="nevest"><p><l>jāneved</l><r>neve</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="apēst"><par n="ne"/><i>apē</i><par n="ieē/st__vblex"/></e>
+    <e lm="apēst"><p><l>jāapēd</l><r>apē</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="neēst"><par n="ne"/><i>neē</i><par n="ieē/st__vblex"/></e>
+    <e lm="neēst"><p><l>jāneēd</l><r>neē</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="atvest"><par n="ne"/><i>atve</i><par n="ieē/st__vblex"/></e>
+    <e lm="atvest"><p><l>jāatved</l><r>atve</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="ēst"><par n="ne"/><i>ē</i><par n="ieē/st__vblex"/></e>
+    <e lm="ēst"><p><l>jāēd</l><r>ē</r></p><par n="jāredz/__vblex"/></e>
+
+
     <e lm="gulēt"><par n="ne"/><i>gu</i><par n="gu/lēt__vblex"/></e>
     <e lm="gulēt"><p><l>jāguļ</l><r>gulēt</r></p><par n="jāguļ/__vblex"/></e>
 
@@ -10095,6 +10162,237 @@
 
     <e lm="skriet"><par n="ne"/><i>skr</i><par n="skr/iet__vblex"/></e>
     <e lm="skriet"><p><l>jāskrien</l><r>skriet</r></p><par n="jāguļ/__vblex"/></e>
+
+    <e lm="apšaubīt"><par n="ne"/><i>apšaub</i><par n="dar/īt__vblex"/></e>
+    <e lm="apšaubīt"><p><l>jāapšauba</l><r>apšaubīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="atbīdīt"><par n="ne"/><i>atbīd</i><par n="dar/īt__vblex"/></e>
+    <e lm="atbīdīt"><p><l>jāatbīda</l><r>atbīdīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="atstāstīt"><par n="ne"/><i>atstāst</i><par n="dar/īt__vblex"/></e>
+    <e lm="atstāstīt"><p><l>jāatstāsta</l><r>atstāstīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="atsūtīt"><par n="ne"/><i>atsūt</i><par n="dar/īt__vblex"/></e>
+    <e lm="atsūtīt"><p><l>jāatsūta</l><r>atsūtīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="attīrīt"><par n="ne"/><i>attīr</i><par n="dar/īt__vblex"/></e>
+    <e lm="attīrīt"><p><l>jāattīra</l><r>attīrīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="baudīt"><par n="ne"/><i>baud</i><par n="dar/īt__vblex"/></e>
+    <e lm="baudīt"><p><l>jābauda</l><r>baudīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="dalīt"><par n="ne"/><i>dal</i><par n="dar/īt__vblex"/></e>
+    <e lm="dalīt"><p><l>jādala</l><r>dalīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="glaudīt"><par n="ne"/><i>glaud</i><par n="dar/īt__vblex"/></e>
+    <e lm="glaudīt"><p><l>jāglauda</l><r>glaudīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="grozīt"><par n="ne"/><i>groz</i><par n="dar/īt__vblex"/></e>
+    <e lm="grozīt"><p><l>jāgroza</l><r>grozīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="iebaudīt"><par n="ne"/><i>iebaud</i><par n="dar/īt__vblex"/></e>
+    <e lm="iebaudīt"><p><l>jāiebauda</l><r>iebaudīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="iemainīt"><par n="ne"/><i>iemain</i><par n="dar/īt__vblex"/></e>
+    <e lm="iemainīt"><p><l>jāiemaina</l><r>iemainīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="ierakstīt"><par n="ne"/><i>ierakst</i><par n="dar/īt__vblex"/></e>
+    <e lm="ierakstīt"><p><l>jāieraksta</l><r>ierakstīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="ietaupīt"><par n="ne"/><i>ietaup</i><par n="dar/īt__vblex"/></e>
+    <e lm="ietaupīt"><p><l>jāietaupa</l><r>ietaupīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="izadīt"><par n="ne"/><i>izad</i><par n="dar/īt__vblex"/></e>
+    <e lm="izadīt"><p><l>jāizada</l><r>izadīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="izbaudīt"><par n="ne"/><i>izbaud</i><par n="dar/īt__vblex"/></e>
+    <e lm="izbaudīt"><p><l>jāizbauda</l><r>izbaudīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="izbrīnīt"><par n="ne"/><i>izbrīn</i><par n="dar/īt__vblex"/></e>
+    <e lm="izbrīnīt"><p><l>jāizbrīna</l><r>izbrīnīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="izcīnīt"><par n="ne"/><i>izcīn</i><par n="dar/īt__vblex"/></e>
+    <e lm="izcīnīt"><p><l>jāizcīna</l><r>izcīnīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="izdarīt"><par n="ne"/><i>izdar</i><par n="dar/īt__vblex"/></e>
+    <e lm="izdarīt"><p><l>jāizdara</l><r>izdarīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="izmainīt"><par n="ne"/><i>izmain</i><par n="dar/īt__vblex"/></e>
+    <e lm="izmainīt"><p><l>jāizmaina</l><r>izmainīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="izraisīt"><par n="ne"/><i>izrais</i><par n="dar/īt__vblex"/></e>
+    <e lm="izraisīt"><p><l>jāizraisa</l><r>izraisīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="izstāstīt"><par n="ne"/><i>izstāst</i><par n="dar/īt__vblex"/></e>
+    <e lm="izstāstīt"><p><l>jāizstāsta</l><r>izstāstīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="izvirzīt"><par n="ne"/><i>izvirz</i><par n="dar/īt__vblex"/></e>
+    <e lm="izvirzīt"><p><l>jāizvirza</l><r>izvirzīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="klāstīt"><par n="ne"/><i>klāst</i><par n="dar/īt__vblex"/></e>
+    <e lm="klāstīt"><p><l>jāklāsta</l><r>klāstīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="klausīt"><par n="ne"/><i>klaus</i><par n="dar/īt__vblex"/></e>
+    <e lm="klausīt"><p><l>jāklausa</l><r>klausīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="kratīt"><par n="ne"/><i>krat</i><par n="dar/īt__vblex"/></e>
+    <e lm="kratīt"><p><l>jākrata</l><r>kratīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="lāpīt"><par n="ne"/><i>lāp</i><par n="dar/īt__vblex"/></e>
+    <e lm="lāpīt"><p><l>jālāpa</l><r>lāpīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="mācīt"><par n="ne"/><i>māc</i><par n="dar/īt__vblex"/></e>
+    <e lm="mācīt"><p><l>jāmāca</l><r>mācīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="mainīt"><par n="ne"/><i>main</i><par n="dar/īt__vblex"/></e>
+    <e lm="mainīt"><p><l>jāmaina</l><r>mainīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="manīt"><par n="ne"/><i>man</i><par n="dar/īt__vblex"/></e>
+    <e lm="manīt"><p><l>jāmana</l><r>manīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="mānīt"><par n="ne"/><i>mān</i><par n="dar/īt__vblex"/></e>
+    <e lm="mānīt"><p><l>jāmāna</l><r>mānīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="negaidīt"><par n="ne"/><i>negaid</i><par n="dar/īt__vblex"/></e>
+    <e lm="negaidīt"><p><l>jānegaida</l><r>negaidīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="neiemācīt"><par n="ne"/><i>neiemāc</i><par n="dar/īt__vblex"/></e>
+    <e lm="neiemācīt"><p><l>jāneiemāca</l><r>neiemācīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="nelasīt"><par n="ne"/><i>nelas</i><par n="dar/īt__vblex"/></e>
+    <e lm="nelasīt"><p><l>jānelasa</l><r>nelasīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="nemācīt"><par n="ne"/><i>nemāc</i><par n="dar/īt__vblex"/></e>
+    <e lm="nemācīt"><p><l>jānemāca</l><r>nemācīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="nenodarīt"><par n="ne"/><i>nenodar</i><par n="dar/īt__vblex"/></e>
+    <e lm="nenodarīt"><p><l>jānenodara</l><r>nenodarīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="nepadarīt"><par n="ne"/><i>nepadar</i><par n="dar/īt__vblex"/></e>
+    <e lm="nepadarīt"><p><l>jānepadara</l><r>nepadarīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="nepamanīt"><par n="ne"/><i>nepaman</i><par n="dar/īt__vblex"/></e>
+    <e lm="nepamanīt"><p><l>jānepamana</l><r>nepamanīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="nepaprasīt"><par n="ne"/><i>nepapras</i><par n="dar/īt__vblex"/></e>
+    <e lm="nepaprasīt"><p><l>jānepaprasa</l><r>nepaprasīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="nepavadīt"><par n="ne"/><i>nepavad</i><par n="dar/īt__vblex"/></e>
+    <e lm="nepavadīt"><p><l>jānepavada</l><r>nepavadīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="nepierādīt"><par n="ne"/><i>nepierād</i><par n="dar/īt__vblex"/></e>
+    <e lm="nepierādīt"><p><l>jānepierāda</l><r>nepierādīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="neradīt"><par n="ne"/><i>nerad</i><par n="dar/īt__vblex"/></e>
+    <e lm="neradīt"><p><l>jānerada</l><r>neradīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="nerādīt"><par n="ne"/><i>nerād</i><par n="dar/īt__vblex"/></e>
+    <e lm="nerādīt"><p><l>jānerāda</l><r>nerādīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="neskatīt"><par n="ne"/><i>neskat</i><par n="dar/īt__vblex"/></e>
+    <e lm="neskatīt"><p><l>jāneskata</l><r>neskatīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="nesmaidīt"><par n="ne"/><i>nesmaid</i><par n="dar/īt__vblex"/></e>
+    <e lm="nesmaidīt"><p><l>jānesmaida</l><r>nesmaidīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="neuzskatīt"><par n="ne"/><i>neuzskat</i><par n="dar/īt__vblex"/></e>
+    <e lm="neuzskatīt"><p><l>jāneuzskata</l><r>neuzskatīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="nodarīt"><par n="ne"/><i>nodar</i><par n="dar/īt__vblex"/></e>
+    <e lm="nodarīt"><p><l>jānodara</l><r>nodarīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="noglāstīt"><par n="ne"/><i>noglāst</i><par n="dar/īt__vblex"/></e>
+    <e lm="noglāstīt"><p><l>jānoglāsta</l><r>noglāstīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="nolaupīt"><par n="ne"/><i>nolaup</i><par n="dar/īt__vblex"/></e>
+    <e lm="nolaupīt"><p><l>jānolaupa</l><r>nolaupīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="nomainīt"><par n="ne"/><i>nomain</i><par n="dar/īt__vblex"/></e>
+    <e lm="nomainīt"><p><l>jānomaina</l><r>nomainīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="norakstīt"><par n="ne"/><i>norakst</i><par n="dar/īt__vblex"/></e>
+    <e lm="norakstīt"><p><l>jānoraksta</l><r>norakstīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="noskatīt"><par n="ne"/><i>noskat</i><par n="dar/īt__vblex"/></e>
+    <e lm="noskatīt"><p><l>jānoskata</l><r>noskatīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="noskūpstīt"><par n="ne"/><i>noskūpst</i><par n="dar/īt__vblex"/></e>
+    <e lm="noskūpstīt"><p><l>jānoskūpsta</l><r>noskūpstīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="nosodīt"><par n="ne"/><i>nosod</i><par n="dar/īt__vblex"/></e>
+    <e lm="nosodīt"><p><l>jānosoda</l><r>nosodīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="notīrīt"><par n="ne"/><i>notīr</i><par n="dar/īt__vblex"/></e>
+    <e lm="notīrīt"><p><l>jānotīra</l><r>notīrīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="pačamdīt"><par n="ne"/><i>pačamd</i><par n="dar/īt__vblex"/></e>
+    <e lm="pačamdīt"><p><l>jāpačamda</l><r>pačamdīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="padarīt"><par n="ne"/><i>padar</i><par n="dar/īt__vblex"/></e>
+    <e lm="padarīt"><p><l>jāpadara</l><r>padarīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="pagaidīt"><par n="ne"/><i>pagaid</i><par n="dar/īt__vblex"/></e>
+    <e lm="pagaidīt"><p><l>jāpagaida</l><r>pagaidīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="paklausīt"><par n="ne"/><i>paklaus</i><par n="dar/īt__vblex"/></e>
+    <e lm="paklausīt"><p><l>jāpaklausa</l><r>paklausīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="pakratīt"><par n="ne"/><i>pakrat</i><par n="dar/īt__vblex"/></e>
+    <e lm="pakratīt"><p><l>jāpakrata</l><r>pakratīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="pamanīt"><par n="ne"/><i>paman</i><par n="dar/īt__vblex"/></e>
+    <e lm="pamanīt"><p><l>jāpamana</l><r>pamanīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="paraustīt"><par n="ne"/><i>paraust</i><par n="dar/īt__vblex"/></e>
+    <e lm="paraustīt"><p><l>jāparausta</l><r>paraustīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="pārskatīt"><par n="ne"/><i>pārskat</i><par n="dar/īt__vblex"/></e>
+    <e lm="pārskatīt"><p><l>jāpārskata</l><r>pārskatīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="pasmaidīt"><par n="ne"/><i>pasmaid</i><par n="dar/īt__vblex"/></e>
+    <e lm="pasmaidīt"><p><l>jāpasmaida</l><r>pasmaidīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="paspārdīt"><par n="ne"/><i>paspārd</i><par n="dar/īt__vblex"/></e>
+    <e lm="paspārdīt"><p><l>jāpaspārda</l><r>paspārdīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="pastāstīt"><par n="ne"/><i>pastāst</i><par n="dar/īt__vblex"/></e>
+    <e lm="pastāstīt"><p><l>jāpastāsta</l><r>pastāstīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="pasūtīt"><par n="ne"/><i>pasūt</i><par n="dar/īt__vblex"/></e>
+    <e lm="pasūtīt"><p><l>jāpasūta</l><r>pasūtīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="pataustīt"><par n="ne"/><i>pataust</i><par n="dar/īt__vblex"/></e>
+    <e lm="pataustīt"><p><l>jāpatausta</l><r>pataustīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="pavadīt"><par n="ne"/><i>pavad</i><par n="dar/īt__vblex"/></e>
+    <e lm="pavadīt"><p><l>jāpavada</l><r>pavadīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="piemānīt"><par n="ne"/><i>piemān</i><par n="dar/īt__vblex"/></e>
+    <e lm="piemānīt"><p><l>jāpiemāna</l><r>piemānīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="piepildīt"><par n="ne"/><i>piepild</i><par n="dar/īt__vblex"/></e>
+    <e lm="piepildīt"><p><l>jāpiepilda</l><r>piepildīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="pieprasīt"><par n="ne"/><i>piepras</i><par n="dar/īt__vblex"/></e>
+    <e lm="pieprasīt"><p><l>jāpieprasa</l><r>pieprasīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="pierakstīt"><par n="ne"/><i>pierakst</i><par n="dar/īt__vblex"/></e>
+    <e lm="pierakstīt"><p><l>jāpieraksta</l><r>pierakstīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="pieskaitīt"><par n="ne"/><i>pieskait</i><par n="dar/īt__vblex"/></e>
+    <e lm="pieskaitīt"><p><l>jāpieskaita</l><r>pieskaitīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="piezvanīt"><par n="ne"/><i>piezvan</i><par n="dar/īt__vblex"/></e>
+    <e lm="piezvanīt"><p><l>jāpiezvana</l><r>piezvanīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="pildīt"><par n="ne"/><i>pild</i><par n="dar/īt__vblex"/></e>
+    <e lm="pildīt"><p><l>jāpilda</l><r>pildīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="plosīt"><par n="ne"/><i>plos</i><par n="dar/īt__vblex"/></e>
+    <e lm="plosīt"><p><l>jāplosa</l><r>plosīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="radīt"><par n="ne"/><i>rad</i><par n="dar/īt__vblex"/></e>
+    <e lm="radīt"><p><l>jārada</l><r>radīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="rādīt"><par n="ne"/><i>rād</i><par n="dar/īt__vblex"/></e>
+    <e lm="rādīt"><p><l>jārāda</l><r>rādīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="raidīt"><par n="ne"/><i>raid</i><par n="dar/īt__vblex"/></e>
+    <e lm="raidīt"><p><l>jāraida</l><r>raidīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="raisīt"><par n="ne"/><i>rais</i><par n="dar/īt__vblex"/></e>
+    <e lm="raisīt"><p><l>jāraisa</l><r>raisīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="rakstīt"><par n="ne"/><i>rakst</i><par n="dar/īt__vblex"/></e>
+    <e lm="rakstīt"><p><l>jāraksta</l><r>rakstīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="raustīt"><par n="ne"/><i>raust</i><par n="dar/īt__vblex"/></e>
+    <e lm="raustīt"><p><l>jārausta</l><r>raustīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="sagaidīt"><par n="ne"/><i>sagaid</i><par n="dar/īt__vblex"/></e>
+    <e lm="sagaidīt"><p><l>jāsagaida</l><r>sagaidīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="sagrozīt"><par n="ne"/><i>sagroz</i><par n="dar/īt__vblex"/></e>
+    <e lm="sagrozīt"><p><l>jāsagroza</l><r>sagrozīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="sagūstīt"><par n="ne"/><i>sagūst</i><par n="dar/īt__vblex"/></e>
+    <e lm="sagūstīt"><p><l>jāsagūsta</l><r>sagūstīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="saistīt"><par n="ne"/><i>saist</i><par n="dar/īt__vblex"/></e>
+    <e lm="saistīt"><p><l>jāsaista</l><r>saistīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="saklausīt"><par n="ne"/><i>saklaus</i><par n="dar/īt__vblex"/></e>
+    <e lm="saklausīt"><p><l>jāsaklausa</l><r>saklausīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="sālīt"><par n="ne"/><i>sāl</i><par n="dar/īt__vblex"/></e>
+    <e lm="sālīt"><p><l>jāsāla</l><r>sālīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="samanīt"><par n="ne"/><i>saman</i><par n="dar/īt__vblex"/></e>
+    <e lm="samanīt"><p><l>jāsamana</l><r>samanīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="saraustīt"><par n="ne"/><i>saraust</i><par n="dar/īt__vblex"/></e>
+    <e lm="saraustīt"><p><l>jāsarausta</l><r>saraustīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="sašķaidīt"><par n="ne"/><i>sašķaid</i><par n="dar/īt__vblex"/></e>
+    <e lm="sašķaidīt"><p><l>jāsašķaida</l><r>sašķaidīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="saskatīt"><par n="ne"/><i>saskat</i><par n="dar/īt__vblex"/></e>
+    <e lm="saskatīt"><p><l>jāsaskata</l><r>saskatīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="sataisīt"><par n="ne"/><i>satais</i><par n="dar/īt__vblex"/></e>
+    <e lm="sataisīt"><p><l>jāsataisa</l><r>sataisīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="sildīt"><par n="ne"/><i>sild</i><par n="dar/īt__vblex"/></e>
+    <e lm="sildīt"><p><l>jāsilda</l><r>sildīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="šķirstīt"><par n="ne"/><i>šķirst</i><par n="dar/īt__vblex"/></e>
+    <e lm="šķirstīt"><p><l>jāšķirsta</l><r>šķirstīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="skraidīt"><par n="ne"/><i>skraid</i><par n="dar/īt__vblex"/></e>
+    <e lm="skraidīt"><p><l>jāskraida</l><r>skraidīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="smaidīt"><par n="ne"/><i>smaid</i><par n="dar/īt__vblex"/></e>
+    <e lm="smaidīt"><p><l>jāsmaida</l><r>smaidīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="sodīt"><par n="ne"/><i>sod</i><par n="dar/īt__vblex"/></e>
+    <e lm="sodīt"><p><l>jāsoda</l><r>sodīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="stādīt"><par n="ne"/><i>stād</i><par n="dar/īt__vblex"/></e>
+    <e lm="stādīt"><p><l>jāstāda</l><r>stādīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="stāstīt"><par n="ne"/><i>stāst</i><par n="dar/īt__vblex"/></e>
+    <e lm="stāstīt"><p><l>jāstāsta</l><r>stāstīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="sūtīt"><par n="ne"/><i>sūt</i><par n="dar/īt__vblex"/></e>
+    <e lm="sūtīt"><p><l>jāsūta</l><r>sūtīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="taisīt"><par n="ne"/><i>tais</i><par n="dar/īt__vblex"/></e>
+    <e lm="taisīt"><p><l>jātaisa</l><r>taisīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="trāpīt"><par n="ne"/><i>trāp</i><par n="dar/īt__vblex"/></e>
+    <e lm="trāpīt"><p><l>jātrāpa</l><r>trāpīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="uzguldīt"><par n="ne"/><i>uzguld</i><par n="dar/īt__vblex"/></e>
+    <e lm="uzguldīt"><p><l>jāuzgulda</l><r>uzguldīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="uzklausīt"><par n="ne"/><i>uzklaus</i><par n="dar/īt__vblex"/></e>
+    <e lm="uzklausīt"><p><l>jāuzklausa</l><r>uzklausīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="uzlaizīt"><par n="ne"/><i>uzlaiz</i><par n="dar/īt__vblex"/></e>
+    <e lm="uzlaizīt"><p><l>jāuzlaiza</l><r>uzlaizīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="uzmanīt"><par n="ne"/><i>uzman</i><par n="dar/īt__vblex"/></e>
+    <e lm="uzmanīt"><p><l>jāuzmana</l><r>uzmanīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="uzrādīt"><par n="ne"/><i>uzrād</i><par n="dar/īt__vblex"/></e>
+    <e lm="uzrādīt"><p><l>jāuzrāda</l><r>uzrādīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="uzrakstīt"><par n="ne"/><i>uzrakst</i><par n="dar/īt__vblex"/></e>
+    <e lm="uzrakstīt"><p><l>jāuzraksta</l><r>uzrakstīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="uzsildīt"><par n="ne"/><i>uzsild</i><par n="dar/īt__vblex"/></e>
+    <e lm="uzsildīt"><p><l>jāuzsilda</l><r>uzsildīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="uzšķaudīt"><par n="ne"/><i>uzšķaud</i><par n="dar/īt__vblex"/></e>
+    <e lm="uzšķaudīt"><p><l>jāuzšķauda</l><r>uzšķaudīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="uztaisīt"><par n="ne"/><i>uztais</i><par n="dar/īt__vblex"/></e>
+    <e lm="uztaisīt"><p><l>jāuztaisa</l><r>uztaisīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="uzvārīt"><par n="ne"/><i>uzvār</i><par n="dar/īt__vblex"/></e>
+    <e lm="uzvārīt"><p><l>jāuzvāra</l><r>uzvārīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="vadīt"><par n="ne"/><i>vad</i><par n="dar/īt__vblex"/></e>
+    <e lm="vadīt"><p><l>jāvada</l><r>vadīt</r></p><par n="jāredz/__vblex"/></e>
+    <e lm="vārīt"><par n="ne"/><i>vār</i><par n="dar/īt__vblex"/></e>
+    <e lm="vārīt"><p><l>jāvāra</l><r>vārīt</r></p><par n="jāredz/__vblex"/></e>
 
 
     <e lm="skaitīt"><par n="ne"/><i>skait</i><par n="skait/īt__vblex"/></e>
@@ -10177,6 +10475,416 @@
     <e lm="īstenot">         <par n="ne"/><i>īsteno</i><par n="apvieno/t__vblex"/></e>
 
     <!-- Uncategorised for transitivity -->
+
+    <e lm="aizslīdēt"><i>aizslīd</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="aizturēt"><i>aiztur</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="apdraudēt"><i>apdraud</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="apprecēt"><i>apprec</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="apturēt"><i>aptur</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="apzvērēt"><i>apzvēr</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="atslīdēt"><i>atslīd</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="burkšķēt"><i>burkšķ</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="čerkstēt"><i>čerkst</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="čīkstēt"><i>čīkst</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="čukstēt"><i>čukst</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="derēt"><i>der</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="draudēt"><i>draud</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="drebēt"><i>dreb</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="drīkstēt"><i>drīkst</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="guldzēt"><i>guldz</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="iecerēt"><i>iecer</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="iemīlēt"><i>iemīl</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="ieturēt"><i>ietur</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="izpeldēt"><i>izpeld</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="izputēt"><i>izput</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="izturēt"><i>iztur</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="kūpēt"><i>kūp</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="līdzēt"><i>līdz</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="lūrēt"><i>lūr</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="minēt"><i>min</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="muldēt"><i>muld</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="neatminēt"><i>neatmin</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="nedrīkstēt"><i>nedrīkst</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="neizturēt"><i>neiztur</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="nelīdzēt"><i>nelīdz</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="nepaslīdēt"><i>nepaslīd</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="neprecēt"><i>neprec</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="neskanēt"><i>neskan</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="nesmirdēt"><i>nesmird</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="nesūdzēt"><i>nesūdz</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="neticēt"><i>netic</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="ņirbēt"><i>ņirb</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="noderēt"><i>noder</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="nodžinkstēt"><i>nodžinkst</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="noknikšķēt"><i>noknikšķ</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="nostāvēt"><i>nostāv</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="noturēt"><i>notur</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="ņudzēt"><i>ņudz</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="ņurdēt"><i>ņurd</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="palīdzēt"><i>palīdz</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="palūrēt"><i>palūr</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="paredzēt"><i>paredz</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="pārredzēt"><i>pārredz</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="pārstāvēt"><i>pārstāv</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="pārvarēt"><i>pārvar</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="paslīdēt"><i>paslīd</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="pastāvēt"><i>pastāv</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="paturēt"><i>patur</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="peldēt"><i>peld</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="piederēt"><i>pieder</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="pieminēt"><i>piemin</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="pieredzēt"><i>pieredz</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="piestāvēt"><i>piestāv</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="pilēt"><i>pil</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="pļerkstēt"><i>pļerkst</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="precēt"><i>prec</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="pukstēt"><i>pukst</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="ritēt"><i>rit</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="saderēt"><i>sader</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="sadzirdēt"><i>sadzird</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="sastāvēt"><i>sastāv</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="saturēt"><i>satur</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="skanēt"><i>skan</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="slīdēt"><i>slīd</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="smirdēt"><i>smird</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="spindzēt"><i>spindz</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="stāvēt"><i>stāv</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="ticēt"><i>tic</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="tupēt"><i>tup</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="turēt"><i>tur</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="uzpeldēt"><i>uzpeld</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="uzticēt"><i>uztic</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="uzturēt"><i>uztur</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="uzvarēt"><i>uzvar</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="vīdēt"><i>vīd</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="ziedēt"><i>zied</i><par n="vīd/ēt__vblex"/></e>
+    <e lm="zvērēt"><i>zvēr</i><par n="vīd/ēt__vblex"/></e>
+
+    <e lm="aizlidot"><i>aizlido</i><par n="vīlē/t__vblex"/></e>
+    <e lm="aiztuntuļot"><i>aiztuntuļo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="aizvietot"><i>aizvieto</i><par n="vīlē/t__vblex"/></e>
+    <e lm="algot"><i>algo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="apbedīt"><i>apbedī</i><par n="vīlē/t__vblex"/></e>
+    <e lm="apdriskāt"><i>apdriskā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="apdzejot"><i>apdzejo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="apdzīvot"><i>apdzīvo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="apkaunot"><i>apkauno</i><par n="vīlē/t__vblex"/></e>
+    <e lm="apkopot"><i>apkopo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="apsekot"><i>apseko</i><par n="vīlē/t__vblex"/></e>
+    <e lm="atalgot"><i>atalgo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="atcilpot"><i>atcilpo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="atgaiņāt"><i>atgaiņā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="atjaunot"><i>atjauno</i><par n="vīlē/t__vblex"/></e>
+    <e lm="atmaskot"><i>atmasko</i><par n="vīlē/t__vblex"/></e>
+    <e lm="atpestīt"><i>atpestī</i><par n="vīlē/t__vblex"/></e>
+    <e lm="atrunāt"><i>atrunā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="atspoguļot"><i>atspoguļo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="atvieglot"><i>atvieglo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="auļot"><i>auļo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="baurot"><i>bauro</i><par n="vīlē/t__vblex"/></e>
+    <e lm="bojāt"><i>bojā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="čalot"><i>čalo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="dzejot"><i>dzejo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="gādāt"><i>gādā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="garšot"><i>garšo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="godāt"><i>godā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="iedomāt"><i>iedomā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="ieelpot"><i>ieelpo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="iemīļot"><i>iemīļo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="ieplānot"><i>ieplāno</i><par n="vīlē/t__vblex"/></e>
+    <e lm="ierīkot"><i>ierīko</i><par n="vīlē/t__vblex"/></e>
+    <e lm="ieriņķot"><i>ieriņķo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="ierobežot"><i>ierobežo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="ievazāt"><i>ievazā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="ievērot"><i>ievēro</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izdangāt"><i>izdangā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izelpot"><i>izelpo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izgatavot"><i>izgatavo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izglītot"><i>izglīto</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izgudrot"><i>izgudro</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izlabot"><i>izlabo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izlietot"><i>izlieto</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izpestīt"><i>izpestī</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izsapņot"><i>izsapņo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izstarot"><i>izstaro</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izsvītrot"><i>izsvītro</i><par n="vīlē/t__vblex"/></e>
+    <e lm="iztaisnot"><i>iztaisno</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izveidot"><i>izveido</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izvietot"><i>izvieto</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izzvejot"><i>izzvejo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="jūsmot"><i>jūsmo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="kalpot"><i>kalpo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="kārtot"><i>kārto</i><par n="vīlē/t__vblex"/></e>
+    <e lm="klaigāt"><i>klaigā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="klepot"><i>klepo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="krāsot"><i>krāso</i><par n="vīlē/t__vblex"/></e>
+    <e lm="kuģot"><i>kuģo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="kvēlot"><i>kvēlo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="labot"><i>labo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="lietot"><i>lieto</i><par n="vīlē/t__vblex"/></e>
+    <e lm="lolot"><i>lolo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="medīt"><i>medī</i><par n="vīlē/t__vblex"/></e>
+    <e lm="mirgot"><i>mirgo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="neatlidot"><i>neatlido</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nebaurot"><i>nebauro</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nebojāt"><i>nebojā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="negalvot"><i>negalvo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="negaršot"><i>negaršo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="neiedragāt"><i>neiedragā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="neierobežot"><i>neierobežo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="neievērot"><i>neievēro</i><par n="vīlē/t__vblex"/></e>
+    <e lm="neizglītot"><i>neizglīto</i><par n="vīlē/t__vblex"/></e>
+    <e lm="neizskaidrot"><i>neizskaidro</i><par n="vīlē/t__vblex"/></e>
+    <e lm="neklepot"><i>neklepo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nelietot"><i>nelieto</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nemedīt"><i>nemedī</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nemurgot"><i>nemurgo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nepamatot"><i>nepamato</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nepiegādāt"><i>nepiegādā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nepiesārņot"><i>nepiesārņo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nesabojāt"><i>nesabojā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nesadabūt"><i>nesadabū</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nesamaitāt"><i>nesamaitā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nesaviļņot"><i>nesaviļņo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nesijāt"><i>nesijā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nobružāt"><i>nobružā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="noburbuļot"><i>noburbuļo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nodomāt"><i>nodomā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nodzīvot"><i>nodzīvo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nogādāt"><i>nogādā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nokārtot"><i>nokārto</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nokrāsot"><i>nokrāso</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nomazgāt"><i>nomazgā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="noskalot"><i>noskalo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nostaigāt"><i>nostaigā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nostrādāt"><i>nostrādā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nosūkāt"><i>nosūkā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="notiesāt"><i>notiesā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="novalkāt"><i>novalkā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nozākāt"><i>nozākā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nozibsnīt"><i>nozibsnī</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nozvejot"><i>nozvejo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pagaršot"><i>pagaršo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="palūkot"><i>palūko</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pamatot"><i>pamato</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pamielot"><i>pamielo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pārlūkot"><i>pārlūko</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pārmantot"><i>pārmanto</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pārpakot"><i>pārpako</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pārslimot"><i>pārslimo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="paslēpot"><i>paslēpo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pātarot"><i>pātaro</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pavaicāt"><i>pavaicā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pavērot"><i>pavēro</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pazemot"><i>pazemo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="piebalsot"><i>piebalso</i><par n="vīlē/t__vblex"/></e>
+    <e lm="piedūmot"><i>piedūmo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="piegādāt"><i>piegādā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pielāgot"><i>pielāgo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pieskaņot"><i>pieskaņo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pievienot"><i>pievieno</i><par n="vīlē/t__vblex"/></e>
+    <e lm="plānot"><i>plāno</i><par n="vīlē/t__vblex"/></e>
+    <e lm="prātot"><i>prāto</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pušķot"><i>pušķo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="raksturot"><i>raksturo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="rāpot"><i>rāpo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="sabojāt"><i>sabojā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="sadusmot"><i>sadusmo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="sadzīvot"><i>sadzīvo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="sagādāt"><i>sagādā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="saimniekot"><i>saimnieko</i><par n="vīlē/t__vblex"/></e>
+    <e lm="sakapāt"><i>sakapā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="sakopot"><i>sakopo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="sakravāt"><i>sakravā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="salabot"><i>salabo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="samaksāt"><i>samaksā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="sameistarot"><i>sameistaro</i><par n="vīlē/t__vblex"/></e>
+    <e lm="sarežģīt"><i>sarežģī</i><par n="vīlē/t__vblex"/></e>
+    <e lm="saskaņot"><i>saskaņo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="satrakot"><i>satrako</i><par n="vīlē/t__vblex"/></e>
+    <e lm="saviļņot"><i>saviļņo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="sijāt"><i>sijā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="skaidrot"><i>skaidro</i><par n="vīlē/t__vblex"/></e>
+    <e lm="skaitļot"><i>skaitļo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="skalot"><i>skalo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="slēpot"><i>slēpo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="smaržot"><i>smaržo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="šņaukāt"><i>šņaukā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="spietot"><i>spieto</i><par n="vīlē/t__vblex"/></e>
+    <e lm="staigāt"><i>staigā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="tiesāt"><i>tiesā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="trakot"><i>trako</i><par n="vīlē/t__vblex"/></e>
+    <e lm="tulkot"><i>tulko</i><par n="vīlē/t__vblex"/></e>
+    <e lm="uzlabot"><i>uzlabo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="uzlūkot"><i>uzlūko</i><par n="vīlē/t__vblex"/></e>
+    <e lm="uzrunāt"><i>uzrunā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="vaicāt"><i>vaicā</i><par n="vīlē/t__vblex"/></e>
+    <e lm="vāvuļot"><i>vāvuļo</i><par n="vīlē/t__vblex"/></e>
+    <e lm="veidot"><i>veido</i><par n="vīlē/t__vblex"/></e>
+    <e lm="vērot"><i>vēro</i><par n="vīlē/t__vblex"/></e>
+    <e lm="viltot"><i>vilto</i><par n="vīlē/t__vblex"/></e>
+
+
+    <e lm="adresēt"><i>adresē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="aizsmēķēt"><i>aizsmēķē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="akcentēt"><i>akcentē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="aktualizēt"><i>aktualizē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="analizēt"><i>analizē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="aprobēt"><i>aprobē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="apsūbēt"><i>apsūbē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="apzīmēt"><i>apzīmē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="asimilēt"><i>asimilē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="auditēt"><i>auditē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="audzēt"><i>audzē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="bāzēt"><i>bāzē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="berzēt"><i>berzē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="biedēt"><i>biedē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="citēt"><i>citē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="deformēt"><i>deformē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="dehermetizēt"><i>dehermetizē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="detalizēt"><i>detalizē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="diedelēt"><i>diedelē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="diktēt"><i>diktē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="dreifēt"><i>dreifē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="dziedēt"><i>dziedē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="eksplodēt"><i>eksplodē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="emigrēt"><i>emigrē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="fiksēt"><i>fiksē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="finansēt"><i>finansē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="forsēt"><i>forsē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="gandēt"><i>gandē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="garantēt"><i>garantē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="grantēt"><i>grantē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="grauzdēt"><i>grauzdē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="harmonēt"><i>harmonē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="idealizēt"><i>idealizē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="identificēt"><i>identificē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="iegravēt"><i>iegravē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="iemasēt"><i>iemasē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="iepriecēt"><i>iepriecē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="iesaldēt"><i>iesaldē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="iestūķēt"><i>iestūķē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="ietekmēt"><i>ietekmē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="ievērtēt"><i>ievērtē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="ignorēt"><i>ignorē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="ilustrēt"><i>ilustrē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="importēt"><i>importē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="informēt"><i>informē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izārstēt"><i>izārstē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izaudzēt"><i>izaudzē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izāzēt"><i>izāzē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izbiedēt"><i>izbiedē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izkausēt"><i>izkausē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izķeksēt"><i>izķeksē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izķemmēt"><i>izķemmē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izmasēt"><i>izmasē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izmērcēt"><i>izmērcē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izšķūrēt"><i>izšķūrē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izsmēķēt"><i>izsmēķē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izspēlēt"><i>izspēlē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izspīlēt"><i>izspīlē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izvērtēt"><i>izvērtē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izzāģēt"><i>izzāģē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izžāvēt"><i>izžāvē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="izzīmēt"><i>izzīmē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="kaplēt"><i>kaplē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="kavēt"><i>kavē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="kolonizēt"><i>kolonizē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="kombinēt"><i>kombinē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="kompensēt"><i>kompensē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="komplektēt"><i>komplektē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="komplicēt"><i>komplicē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="konkurēt"><i>konkurē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="konstatēt"><i>konstatē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="konsultēt"><i>konsultē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="kopēt"><i>kopē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="kritizēt"><i>kritizē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="kvalificēt"><i>kvalificē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="lavierēt"><i>lavierē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="modificēt"><i>modificē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="motivēt"><i>motivē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="neairēt"><i>neairē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="neārstēt"><i>neārstē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="neaudzēt"><i>neaudzē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nebūvēt"><i>nebūvē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nekavēt"><i>nekavē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nepīpēt"><i>nepīpē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nepriecēt"><i>nepriecē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nerealizēt"><i>nerealizē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="netraucēt"><i>netraucē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="netraumēt"><i>netraumē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nobremzēt"><i>nobremzē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nodeldēt"><i>nodeldē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nofilmēt"><i>nofilmē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="noformulēt"><i>noformulē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="noknipsēt"><i>noknipsē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nonāvēt"><i>nonāvē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="noorganizēt"><i>noorganizē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="normalizēt"><i>normalizē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nostartēt"><i>nostartē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="notēmēt"><i>notēmē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="nozilēt"><i>nozilē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="numurēt"><i>numurē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="paberzēt"><i>paberzē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="paģērēt"><i>paģērē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="papīpēt"><i>papīpē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pārbiedēt"><i>pārbiedē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pārķemmēt"><i>pārķemmē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pazīlēt"><i>pazīlē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pieairēt"><i>pieairē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pieaudzēt"><i>pieaudzē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="piemeklēt"><i>piemeklē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="piezemēt"><i>piezemē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pīpēt"><i>pīpē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pretendēt"><i>pretendē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="privatizēt"><i>privatizē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="prognozēt"><i>prognozē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="progresēt"><i>progresē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="projektēt"><i>projektē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="protestēt"><i>protestē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="provocēt"><i>provocē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="publicēt"><i>publicē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pulēt"><i>pulē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="pulsēt"><i>pulsē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="ravēt"><i>ravē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="realizēt"><i>realizē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="regulēt"><i>regulē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="relaksēt"><i>relaksē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="reorganizēt"><i>reorganizē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="represēt"><i>represē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="revidēt"><i>revidē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="rīvēt"><i>rīvē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="saārstēt"><i>saārstē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="saaudzēt"><i>saaudzē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="sacietēt"><i>sacietē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="sakombinēt"><i>sakombinē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="salīmēt"><i>salīmē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="sapotēt"><i>sapotē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="sarepēt"><i>sarepē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="sarīvēt"><i>sarīvē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="sasmērēt"><i>sasmērē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="sašņorēt"><i>sašņorē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="sazāģēt"><i>sazāģē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="skābēt"><i>skābē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="smēķēt"><i>smēķē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="šokēt"><i>šokē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="startēt"><i>startē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="tamborēt"><i>tamborē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="tenterēt"><i>tenterē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="transportēt"><i>transportē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="traucēt"><i>traucē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="traumēt"><i>traumē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="trenēt"><i>trenē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="triumfēt"><i>triumfē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="uzmeklēt"><i>uzmeklē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="uzpīpēt"><i>uzpīpē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="uzsmēķēt"><i>uzsmēķē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="uzspēlēt"><i>uzspēlē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="variēt"><i>variē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="vērtēt"><i>vērtē</i><par n="vīlē/t__vblex"/></e>
+    <e lm="zīmēt"><i>zīmē</i><par n="vīlē/t__vblex"/></e>
+
+
     <e lm="aizkavēt">        <i>aizkavē</i><par n="vīlē/t__vblex"/></e>
     <e lm="aizpīpēt">        <i>aizpīpē</i><par n="vīlē/t__vblex"/></e>
     <e lm="aizvainot">       <i>aizvaino</i><par n="vīlē/t__vblex"/></e>
