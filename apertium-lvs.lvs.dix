@@ -200,6 +200,15 @@
     <pardef n="tāl/u__adv_sint_sup">
       <e><p><l>āk</l><r>u<s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
     </pardef>
+
+    <pardef n="maz__adv">
+      <e><p><l></l><r><s n="adv"/><s n="sint"/></r></p></e>
+      <e><p><l>āk</l><r><s n="adv"/><s n="sint"/><s n="comp"/></r></p></e>
+    </pardef>
+
+    <pardef n="maz__adv_sint_sup">
+      <e><p><l>āk</l><r><s n="adv"/><s n="sint"/><s n="sup"/></r></p></e>
+    </pardef>
   
     <!-- SECTION: Pronouns -->
   
@@ -10057,6 +10066,127 @@
     <e lm="lai kur"><i>lai<b/>kur</i><par n="ārā__adv"/></e>
     <e lm="tikai"><i>tikai</i><par n="ārā__adv"/></e> <!-- 'part' -->
 
+    <e lm="aizvien"><i>aizvien</i><par n="ārā__adv"/></e>
+    <e lm="allaž"><i>allaž</i><par n="ārā__adv"/></e>
+    <e lm="arvien"><i>arvien</i><par n="ārā__adv"/></e>
+    <e lm="atpakaļ"><i>atpakaļ</i><par n="ārā__adv"/></e>
+    <e lm="augšup"><i>augšup</i><par n="ārā__adv"/></e>
+    <e lm="bail"><i>bail</i><par n="ārā__adv"/></e>
+    <e lm="blakus"><i>blakus</i><par n="ārā__adv"/></e>
+    <e lm="brīžam"><i>brīžam</i><par n="ārā__adv"/></e>
+    <e lm="ceturtdien"><i>ceturtdien</i><par n="ārā__adv"/></e>
+    <e lm="cik"><i>cik</i><par n="ārā__adv"/></e>
+    <e lm="citur"><i>citur</i><par n="ārā__adv"/></e>
+    <e lm="daudzmaz"><i>daudzmaz</i><par n="ārā__adv"/></e>
+    <e lm="dažkārt"><i>dažkārt</i><par n="ārā__adv"/></e>
+    <e lm="dažreiz"><i>dažreiz</i><par n="ārā__adv"/></e>
+    <e lm="diemžēl"><i>diemžēl</i><par n="ārā__adv"/></e>
+    <e lm="diendienā"><i>diendienā</i><par n="ārā__adv"/></e>
+    <e lm="diezgan"><i>diezgan</i><par n="ārā__adv"/></e>
+    <e lm="divreiz"><i>divreiz</i><par n="ārā__adv"/></e>
+    <e lm="divtik"><i>divtik</i><par n="ārā__adv"/></e>
+    <e lm="galvenokārt"><i>galvenokārt</i><par n="ārā__adv"/></e>
+    <e lm="gandrīz"><i>gandrīz</i><par n="ārā__adv"/></e>
+    <e lm="gluži"><i>gluži</i><par n="ārā__adv"/></e>
+    <e lm="iepriekš"><i>iepriekš</i><par n="ārā__adv"/></e>
+    <e lm="izklaidus"><i>izklaidus</i><par n="ārā__adv"/></e>
+    <e lm="jelkad"><i>jelkad</i><par n="ārā__adv"/></e>
+    <e lm="kādēļ"><i>kādēļ</i><par n="ārā__adv"/></e>
+    <e lm="kālab"><i>kālab</i><par n="ārā__adv"/></e>
+    <e lm="klusītēm"><i>klusītēm</i><par n="ārā__adv"/></e>
+    <e lm="kurp"><i>kurp</i><par n="ārā__adv"/></e>
+    <e lm="lejup"><i>lejup</i><par n="ārā__adv"/></e>
+    <e lm="līdzās"><i>līdzās</i><par n="ārā__adv"/></e>
+    <e lm="lielākoties"><i>lielākoties</i><par n="ārā__adv"/></e>
+    <e lm="ļoti"><i>ļoti</i><par n="ārā__adv"/></e>
+    <e lm="mājup"><i>mājup</i><par n="ārā__adv"/></e>
+    <e lm="mazliet"><i>mazliet</i><par n="ārā__adv"/></e>
+    <e lm="milzumdaudz"><i>milzumdaudz</i><par n="ārā__adv"/></e>
+    <e lm="mūsuprāt"><i>mūsuprāt</i><par n="ārā__adv"/></e>
+    <e lm="nākošgad"><i>nākošgad</i><par n="ārā__adv"/></e>
+    <e lm="nedaudz"><i>nedaudz</i><par n="ārā__adv"/></e>
+    <e lm="nemaz"><i>nemaz</i><par n="ārā__adv"/></e>
+    <e lm="nemūžam"><i>nemūžam</i><par n="ārā__adv"/></e>
+    <e lm="nepavisam"><i>nepavisam</i><par n="ārā__adv"/></e>
+    <e lm="nesen"><i>nesen</i><par n="ārā__adv"/></e>
+    <e lm="neviļus"><i>neviļus</i><par n="ārā__adv"/></e>
+    <e lm="nopakaļ"><i>nopakaļ</i><par n="ārā__adv"/></e>
+    <e lm="nostāk"><i>nostāk</i><par n="ārā__adv"/></e>
+    <e lm="nost"><i>nost</i><par n="ārā__adv"/></e>
+    <e lm="nupat"><i>nupat</i><par n="ārā__adv"/></e>
+    <e lm="otrdien"><i>otrdien</i><par n="ārā__adv"/></e>
+    <e lm="otrkārt"><i>otrkārt</i><par n="ārā__adv"/></e>
+    <e lm="otrreiz"><i>otrreiz</i><par n="ārā__adv"/></e>
+    <e lm="papildus"><i>papildus</i><par n="ārā__adv"/></e>
+    <e lm="pasen"><i>pasen</i><par n="ārā__adv"/></e>
+    <e lm="pašlaik"><i>pašlaik</i><par n="ārā__adv"/></e>
+    <e lm="pašreiz"><i>pašreiz</i><par n="ārā__adv"/></e>
+    <e lm="patiešām"><i>patiešām</i><par n="ārā__adv"/></e>
+    <e lm="pavisam"><i>pavisam</i><par n="ārā__adv"/></e>
+    <e lm="pēcāk"><i>pēcāk</i><par n="ārā__adv"/></e>
+    <e lm="pērn"><i>pērn</i><par n="ārā__adv"/></e>
+    <e lm="piecreiz"><i>piecreiz</i><par n="ārā__adv"/></e>
+    <e lm="piektdien"><i>piektdien</i><par n="ārā__adv"/></e>
+    <e lm="pirmīt"><i>pirmīt</i><par n="ārā__adv"/></e>
+    <e lm="pirmkārt"><i>pirmkārt</i><par n="ārā__adv"/></e>
+    <e lm="pirmoreiz"><i>pirmoreiz</i><par n="ārā__adv"/></e>
+    <e lm="pretī"><i>pretī</i><par n="ārā__adv"/></e>
+    <e lm="pretim"><i>pretim</i><par n="ārā__adv"/></e>
+    <e lm="projām"><i>projām</i><par n="ārā__adv"/></e>
+    <e lm="prom"><i>prom</i><par n="ārā__adv"/></e>
+    <e lm="pulksten"><i>pulksten</i><par n="ārā__adv"/></e>
+    <e lm="pus"><i>pus</i><par n="ārā__adv"/></e>
+    <e lm="pusvirus"><i>pusvirus</i><par n="ārā__adv"/></e>
+    <e lm="reiz"><i>reiz</i><par n="ārā__adv"/></e>
+    <e lm="respektīvi"><i>respektīvi</i><par n="ārā__adv"/></e>
+    <e lm="sānis"><i>sānis</i><par n="ārā__adv"/></e>
+    <e lm="savukārt"><i>savukārt</i><par n="ārā__adv"/></e>
+    <e lm="savulaik"><i>savulaik</i><par n="ārā__adv"/></e>
+    <e lm="še"><i>še</i><par n="ārā__adv"/></e>
+    <e lm="šitā"><i>šitā</i><par n="ārā__adv"/></e>
+    <e lm="skriešus"><i>skriešus</i><par n="ārā__adv"/></e>
+    <e lm="slepus"><i>slepus</i><par n="ārā__adv"/></e>
+    <e lm="šobrīd"><i>šobrīd</i><par n="ārā__adv"/></e>
+    <e lm="šogad"><i>šogad</i><par n="ārā__adv"/></e>
+    <e lm="šonakt"><i>šonakt</i><par n="ārā__adv"/></e>
+    <e lm="šoreiz"><i>šoreiz</i><par n="ārā__adv"/></e>
+    <e lm="šovakar"><i>šovakar</i><par n="ārā__adv"/></e>
+    <e lm="šurp"><i>šurp</i><par n="ārā__adv"/></e>
+    <e lm="tādējādi"><i>tādējādi</i><par n="ārā__adv"/></e>
+    <e lm="tādēļ"><i>tādēļ</i><par n="ārā__adv"/></e>
+    <e lm="tamdēļ"><i>tamdēļ</i><par n="ārā__adv"/></e>
+    <e lm="tāpat"><i>tāpat</i><par n="ārā__adv"/></e>
+    <e lm="tepat"><i>tepat</i><par n="ārā__adv"/></e>
+    <e lm="tikko"><i>tikko</i><par n="ārā__adv"/></e>
+    <e lm="tikpat"><i>tikpat</i><par n="ārā__adv"/></e>
+    <e lm="tolaik"><i>tolaik</i><par n="ārā__adv"/></e>
+    <e lm="topavasar"><i>topavasar</i><par n="ārā__adv"/></e>
+    <e lm="toreiz"><i>toreiz</i><par n="ārā__adv"/></e>
+    <e lm="tostarp"><i>tostarp</i><par n="ārā__adv"/></e>
+    <e lm="toties"><i>toties</i><par n="ārā__adv"/></e>
+    <e lm="trešdien"><i>trešdien</i><par n="ārā__adv"/></e>
+    <e lm="treškārt"><i>treškārt</i><par n="ārā__adv"/></e>
+    <e lm="tūdaļ"><i>tūdaļ</i><par n="ārā__adv"/></e>
+    <e lm="tūkstoškārt"><i>tūkstoškārt</i><par n="ārā__adv"/></e>
+    <e lm="tūlīt"><i>tūlīt</i><par n="ārā__adv"/></e>
+    <e lm="turp"><i>turp</i><par n="ārā__adv"/></e>
+    <e lm="turpmāk"><i>turpmāk</i><par n="ārā__adv"/></e>
+    <e lm="uzreiz"><i>uzreiz</i><par n="ārā__adv"/></e>
+    <e lm="vairākkārt"><i>vairākkārt</i><par n="ārā__adv"/></e>
+    <e lm="vairs"><i>vairs</i><par n="ārā__adv"/></e>
+    <e lm="vēlreiz"><i>vēlreiz</i><par n="ārā__adv"/></e>
+    <e lm="vienalga"><i>vienalga</i><par n="ārā__adv"/></e>
+    <e lm="vienlaikus"><i>vienlaikus</i><par n="ārā__adv"/></e>
+    <e lm="vienreiz"><i>vienreiz</i><par n="ārā__adv"/></e>
+    <e lm="visapkārt"><i>visapkārt</i><par n="ārā__adv"/></e>
+    <e lm="visbeidzot"><i>visbeidzot</i><par n="ārā__adv"/></e>
+    <e lm="viscaur"><i>viscaur</i><par n="ārā__adv"/></e>
+    <e lm="vismaz"><i>vismaz</i><par n="ārā__adv"/></e>
+    <e lm="vispār"><i>vispār</i><par n="ārā__adv"/></e>
+    <e lm="vispirms"><i>vispirms</i><par n="ārā__adv"/></e>
+    <e lm="visupirms"><i>visupirms</i><par n="ārā__adv"/></e>
+
+
     <e lm="klusi"><i>klus</i><par n="klus/i__adv"/></e>
     <e lm="klusi"><p><l>visklus</l><r>klus</r></p><par n="klus/i__adv_sint_sup"/></e>
     <e lm="tālu"><i>tāl</i><par n="tāl/u__adv"/></e>
@@ -10067,6 +10197,24 @@
     <e lm="cauri"><p><l>viscaur</l><r>caur</r></p><par n="klus/i__adv_sint_sup"/></e>
     <e lm="īsti"><i>īst</i><par n="klus/i__adv"/></e>
     <e lm="īsti"><p><l>visīst</l><r>īst</r></p><par n="klus/i__adv_sint_sup"/></e>
+    <e lm="agri"><i>agr</i><par n="klus/i__adv"/></e>
+    <e lm="agri"><p><l>visagr</l><r>agr</r></p><par n="klus/i__adv_sint_sup"/></e>
+    <e lm="drīzi"><i>drīz</i><par n="klus/i__adv"/></e>
+    <e lm="drīzi"><p><l>visdrīz</l><r>drīz</r></p><par n="klus/i__adv_sint_sup"/></e>
+    <e lm="ticami"><i>ticam</i><par n="klus/i__adv"/></e>
+    <e lm="ticami"><p><l>visticam</l><r>ticam</r></p><par n="klus/i__adv_sint_sup"/></e>
+
+    <e lm="daudz"><i>daudz</i><par n="maz__adv"/></e>
+    <e lm="daudz"><p><l>visdaudz</l><r>daudz</r></p><par n="maz__adv_sint_sup"/></e>
+    <e lm="labprāt"><i>labprāt</i><par n="maz__adv"/></e>
+    <e lm="labprāt"><p><l>vislabprāt</l><r>labprāt</r></p><par n="maz__adv_sint_sup"/></e>
+    <e lm="maz"><i>maz</i><par n="maz__adv"/></e>
+    <e lm="maz"><p><l>vismaz</l><r>maz</r></p><par n="maz__adv_sint_sup"/></e>
+    <e lm="pār"><i>pār</i><par n="maz__adv"/></e>
+    <e lm="pār"><p><l>vispār</l><r>pār</r></p><par n="maz__adv_sint_sup"/></e>
+    <e lm="sen"><i>sen</i><par n="maz__adv"/></e>
+    <e lm="sen"><p><l>vissen</l><r>sen</r></p><par n="maz__adv_sint_sup"/></e>
+
 
     <!-- SECTION: Verbs -->
 
