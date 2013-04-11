@@ -1592,6 +1592,7 @@
 
 
     <pardef n="al/a__n_f">
+      <e><p><l>a</l><r>a<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>as</l><r>a<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
       <e><p><l>ai</l><r>a<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
       <e><p><l>u</l><r>a<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
@@ -1599,7 +1600,6 @@
       <e><p><l>u</l><r>a<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
       <e><p><l>a</l><r>a<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
       <e><p><l>as</l><r>a<s n="n"/><s n="f"/><s n="sg"/><s n="abl"/></r></p></e>
-      <e><p><l>a</l><r>a<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>u</l><r>a<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
       <e><p><l>ām</l><r>a<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
       <e><p><l>as</l><r>a<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
@@ -7658,6 +7658,7 @@
     <e lm="EEZ"><i>EEZ</i><par n="EK__np"/></e>
     <e lm="ES"><i>ES</i><par n="EK__np"/></e>
     <e lm="EP"><i>EP</i><par n="EP__np"/></e>
+    <e lm="IES"><i>IES</i><par n="EP__np"/></e>
     <e lm="ESĪP"><i>ESĪP</i><par n="EP__np"/></e>
 
     <e lm="Eiropadome"><i>Eiropadom</i><par n="Eiropadom/e__np"/></e>
