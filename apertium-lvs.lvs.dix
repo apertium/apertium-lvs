@@ -2526,6 +2526,18 @@
       <e><p>          <l>s</l><r>s<s n="np"/><s n="top"/><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
     </pardef>
 
+    <pardef n="Baham/as__np">
+      <e><p><l>a</l><r>as<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+      <e><p><l>u</l><r>as<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+      <e><p><l>ām</l><r>as<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+      <e><p><l>as</l><r>as<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+      <e><p><l>as</l><r>as<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
+      <e><p><l>ās</l><r>as<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
+      <e><p><l>as</l><r>as<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+      <e><p><l>u</l><r>as<s n="np"/><s n="top"/><s n="f"/><s n="pl"/><s n="abl"/></r></p></e>
+    </pardef>
+
+
     <pardef n="Latvij/a__np">
       <e><p><l>a</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
       <e><p><l>as</l><r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
@@ -5427,6 +5439,7 @@
     <e lm="aina"><i>ain</i><par n="al/a__n_f"/></e>
     <e lm="ainava"><i>ainav</i><par n="al/a__n_f"/></e>
     <e lm="pants"><i>pant</i><par n="tip/s__n_m"/></e>
+    <e lm="sindroms"><i>sindrom</i><par n="tip/s__n_m"/></e>
     <e lm="reitings"><i>reiting</i><par n="tip/s__n_m"/></e>
     <e lm="aizliegums"><i>aizliegum</i><par n="tip/s__n_m"/></e>
     <e lm="aizmetnis"><i>aizmet</i><par n="dā/nis__n_m"/></e>
@@ -7623,6 +7636,7 @@
     <e lm="čuguns"><i>čugun</i><par n="tip/s__n_m"/></e>
     <e lm="ģenerators"><i>ģenerator</i><par n="tip/s__n_m"/></e>
     <e lm="ģenerāladvokāts"><i>ģenerāladvokāt</i><par n="tip/s__n_m"/></e>
+    <e lm="advokāts"><i>advokāt</i><par n="tip/s__n_m"/></e>
     <e lm="ģenerāldirektorāts"><i>ģenerāldirektorāt</i><par n="tip/s__n_m"/></e>
     <e lm="ģenerālsekretariāts"><i>ģenerālsekretariāt</i><par n="tip/s__n_m"/></e>
     <e lm="šķiedraugs"><i>šķiedraug</i><par n="tip/s__n_m"/></e>
@@ -7633,6 +7647,7 @@
 
     <e lm="Raimonds"><i>Raimond</i><par n="Raimond/s__np"/></e>
     <e lm="Džeimss"><i>Džeims</i><par n="Raimond/s__np"/></e>
+    <e lm="Maksims"><i>Maksim</i><par n="Raimond/s__np"/></e>
     <e lm="Gerhards"><i>Gerhard</i><par n="Raimond/s__np"/></e>
     <e lm="Manuels"><i>Manuel</i><par n="Raimond/s__np"/></e>
     <e lm="Olafs"><i>Olaf</i><par n="Raimond/s__np"/></e>
@@ -7696,6 +7711,7 @@
     <e lm="Brisele"><i>Brisel</i><par n="Bagdād/e__np"/></e>
     <e lm="Nīderlande"><i>Nīderland</i><par n="Bagdād/e__np"/></e>
     <e lm="Latvija"><i>Latvij</i><par n="Latvij/a__np"/></e>
+    <e lm="Bahamas"><i>Baham</i><par n="Latvij/a__np"/></e>
     <e lm="Maroka"><i>Marok</i><par n="Latvij/a__np"/></e>
     <e lm="Lihtenšteina"><i>Lihtenštein</i><par n="Latvij/a__np"/></e>
     <e lm="Vjetnama"><i>Vjetnam</i><par n="Latvij/a__np"/></e>
@@ -11116,6 +11132,8 @@
 
     <!-- SECTION: Abbreviations -->
     <e lm="EUR">             <i>EUR</i><par n="EUR__abbr"/></e>
+    <e lm="t.i.">            <i>t.i.</i><par n="EUR__abbr"/></e>
+    <e lm="t.i." r="LR">     <p><l>t.<b/>i.</l><r>t.i.</r></p><par n="EUR__abbr"/></e>
 
     <!-- SECTION: Interjections -->
     <e lm="nē">              <i>nē</i><par n="nē__ij"/></e>
