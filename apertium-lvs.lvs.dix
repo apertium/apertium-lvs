@@ -11132,8 +11132,13 @@
 
     <!-- SECTION: Abbreviations -->
     <e lm="EUR">             <i>EUR</i><par n="EUR__abbr"/></e>
-    <e lm="t.i.">            <i>t.i.</i><par n="EUR__abbr"/></e>
-    <e lm="t.i." r="LR">     <p><l>t.<b/>i.</l><r>t.i.</r></p><par n="EUR__abbr"/></e>
+    <e lm="t. i.">            <i>t.<b/>i.</i><par n="EUR__abbr"/></e>
+    <e lm="u. c.">            <i>u.<b/>c.</i><par n="EUR__abbr"/></e>
+    <e lm="u. tml.">            <i>u.<b/>tml.</i><par n="EUR__abbr"/></e>
+    <e lm="š. g.">            <i>š.<b/>g.</i><par n="EUR__abbr"/></e>
+    <e lm="v. i.">            <i>v.<b/>i.</i><par n="EUR__abbr"/></e>
+    <e lm="z. v.">            <i>z.<b/>v.</i><par n="EUR__abbr"/></e>
+    <e lm="t.i." r="LR">     <p><l>t.i.</l><r>t.<b/>i.</r></p><par n="EUR__abbr"/></e>
     <e lm="piem.">           <i>piem.</i><par n="EUR__abbr"/></e>
 
     <!-- SECTION: Interjections -->
