@@ -11134,6 +11134,7 @@
     <e lm="EUR">             <i>EUR</i><par n="EUR__abbr"/></e>
     <e lm="t.i.">            <i>t.i.</i><par n="EUR__abbr"/></e>
     <e lm="t.i." r="LR">     <p><l>t.<b/>i.</l><r>t.i.</r></p><par n="EUR__abbr"/></e>
+    <e lm="piem.">           <i>piem.</i><par n="EUR__abbr"/></e>
 
     <!-- SECTION: Interjections -->
     <e lm="nē">              <i>nē</i><par n="nē__ij"/></e>
