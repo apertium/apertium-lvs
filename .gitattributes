@@ -1,3 +1,13 @@
 * text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
 /Makefile -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-lvs-0.1.pc.in -text
 /apertium-lvs.lvs.dix -text
+/apertium-lvs.lvs.rlx -text
+/autogen.sh -text
+/configure.ac -text
