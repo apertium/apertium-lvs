@@ -6,9 +6,9 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
-/apertium-lvs-0.1.pc.in -text
 /apertium-lvs.lvs.dix -text
 /apertium-lvs.lvs.rlx -text
+/apertium-lvs.pc.in -text
 /autogen.sh -text
 /configure.ac -text
 /modes.xml -text
