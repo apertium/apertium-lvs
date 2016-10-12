@@ -5,9 +5,12 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
+/apertium-lvs.lvs.acx -text
 /apertium-lvs.lvs.dix -text
 /apertium-lvs.lvs.rlx -text
 /apertium-lvs.pc.in -text
+/apertium-lvs.post-lvs.dix -text
 /autogen.sh -text
 /configure.ac -text
+/lvs.prob -text
 /modes.xml -text
