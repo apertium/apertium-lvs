@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium lvs], [0.1.0], [francis.tyers@gmail.com], [apertium-lvs], [http://wiki.apertium.org/wiki/Apertium-lvs])
+AC_INIT([Apertium lvs], [0.1.0], [francis.tyers@gmail.com], [apertium-lvs], [https://wiki.apertium.org/wiki/Apertium-lvs])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S
